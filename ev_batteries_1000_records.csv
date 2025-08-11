@@ -1,0 +1,1001 @@
+battery_id,order_id,battery_name_id,quantity,order_date,order_time,unit_price,total_price,battery_size,battery_category,battery_specifications,battery_name
+1,19830,universal_battery_pack_id,1,30-03-2024,18:16:20,43157.31,43157.31,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+2,4479,high_capacity_li_ion_id,1,24-05-2024,13:33:20,79289.93,79289.93,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+3,17772,intelligent_power_pack_id,1,02-04-2024,14:05:25,42488.4,42488.4,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+4,7615,intelligent_power_pack_id,1,21-10-2024,17:41:17,39070.36,39070.36,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+5,20842,quick_swap_power_pack_id,1,27-07-2024,13:56:21,43147.12,43147.12,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+6,7687,high_capacity_li_ion_id,1,22-02-2024,18:39:13,94055.51,94055.51,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+7,18757,intelligent_power_pack_id,1,19-04-2024,16:01:59,28240.01,28240.01,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+8,13486,intelligent_power_pack_id,1,09-08-2024,15:37:03,43440.03,43440.03,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+9,11581,quick_swap_power_pack_id,1,15-11-2024,11:18:43,40837.99,40837.99,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+10,7623,high_capacity_li_ion_id,1,12-07-2024,18:48:03,82881.06,82881.06,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+11,785,high_capacity_li_ion_id,1,19-06-2024,11:28:44,70444.43,70444.43,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+12,17607,universal_battery_pack_id,1,17-12-2024,18:38:25,36146.58,36146.58,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+13,9516,generic_lithium_ion_pack_id,1,31-07-2024,12:52:00,43246.98,43246.98,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+14,11621,quick_swap_power_pack_id,1,29-06-2024,18:11:46,44052.48,44052.48,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+15,13322,universal_battery_pack_id,1,29-10-2024,18:48:44,36903.76,36903.76,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+16,1213,quick_swap_power_pack_id,1,25-09-2024,13:58:53,28059.81,28059.81,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+17,3467,generic_lithium_ion_pack_id,1,05-03-2024,21:22:02,46718.2,46718.2,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+18,10564,intelligent_power_pack_id,1,07-07-2024,20:59:07,43260.34,43260.34,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+19,19650,quick_swap_power_pack_id,1,04-02-2024,17:59:54,34842.07,34842.07,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+20,6392,intelligent_power_pack_id,1,27-04-2024,12:21:56,37948.41,37948.41,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+21,7257,universal_battery_pack_id,1,26-10-2024,14:49:49,45144.32,45144.32,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+22,10345,universal_battery_pack_id,1,25-05-2024,13:19:27,35629.28,35629.28,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+23,20008,universal_battery_pack_id,1,22-11-2024,18:17:33,59727.47,59727.47,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+24,7274,intelligent_power_pack_id,1,30-06-2024,17:11:29,43535.66,43535.66,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+25,12258,quick_swap_power_pack_id,1,16-06-2024,12:53:15,38894.43,38894.43,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+26,8289,generic_lithium_ion_pack_id,1,10-08-2024,13:00:55,54342.18,54342.18,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+27,15432,quick_swap_power_pack_id,1,30-01-2024,15:30:53,44368.63,44368.63,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+28,4794,intelligent_power_pack_id,1,06-10-2024,15:54:26,42857.44,42857.44,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+29,9323,high_capacity_li_ion_id,1,10-07-2024,21:01:50,64201.08,64201.08,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+30,15291,universal_battery_pack_id,1,24-01-2024,21:08:36,32969.97,32969.97,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+31,9553,high_capacity_li_ion_id,1,21-04-2024,18:49:09,60087.64,60087.64,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+32,21110,intelligent_power_pack_id,1,21-09-2024,12:30:49,39524.14,39524.14,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+33,5740,generic_lithium_ion_pack_id,1,04-10-2024,11:57:44,30884.57,30884.57,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+34,19075,intelligent_power_pack_id,1,03-05-2024,22:52:49,48876.43,48876.43,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+35,7518,intelligent_power_pack_id,1,08-02-2024,21:22:02,38408.84,38408.84,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+36,16797,quick_swap_power_pack_id,1,06-04-2024,15:58:32,34966.04,34966.04,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+37,8751,quick_swap_power_pack_id,1,18-11-2024,13:25:12,47690.02,47690.02,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+38,6496,universal_battery_pack_id,1,08-06-2024,19:49:03,66404.89,66404.89,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+39,1285,high_capacity_li_ion_id,1,19-12-2024,16:18:42,90482.73,90482.73,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+40,3205,universal_battery_pack_id,1,10-10-2024,17:31:33,61556.75,61556.75,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+41,13501,quick_swap_power_pack_id,1,16-11-2024,19:08:49,30751.25,30751.25,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+42,16929,universal_battery_pack_id,1,09-02-2024,19:43:53,43632.71,43632.71,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+43,11980,intelligent_power_pack_id,1,15-09-2024,18:05:57,25423.37,25423.37,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+44,14676,quick_swap_power_pack_id,1,26-11-2024,20:21:07,40648.4,40648.4,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+45,13961,universal_battery_pack_id,1,14-12-2024,13:35:47,56241.18,56241.18,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+46,15266,high_capacity_li_ion_id,1,11-02-2024,17:49:17,107316.69,107316.69,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+47,2680,high_capacity_li_ion_id,1,19-07-2024,16:10:21,111454.93,111454.93,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+48,9553,generic_lithium_ion_pack_id,1,13-07-2024,18:49:09,55896.26,55896.26,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+49,9032,universal_battery_pack_id,1,20-07-2024,11:47:49,58678.87,58678.87,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+50,18138,high_capacity_li_ion_id,1,23-01-2024,20:28:16,72960.71,72960.71,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+51,21271,high_capacity_li_ion_id,1,29-04-2024,19:07:52,114596.5,114596.5,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+52,18845,quick_swap_power_pack_id,3,13-08-2024,12:25:12,25642.54,76927.63,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+53,18315,universal_battery_pack_id,1,21-10-2024,18:26:49,68722.85,68722.85,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+54,18809,universal_battery_pack_id,1,06-10-2024,14:13:42,30228.49,30228.49,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+55,11365,high_capacity_li_ion_id,1,16-12-2024,15:16:57,74676.35,74676.35,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+56,1813,high_capacity_li_ion_id,1,05-08-2024,17:21:03,93355.05,93355.05,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+57,9545,intelligent_power_pack_id,1,15-01-2024,17:14:17,29975.09,29975.09,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+58,6220,intelligent_power_pack_id,1,04-12-2024,13:17:16,39372.61,39372.61,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+59,3892,universal_battery_pack_id,1,06-10-2024,15:00:38,45247.3,45247.3,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+60,891,generic_lithium_ion_pack_id,1,14-03-2024,17:43:34,66349.29,66349.29,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+61,4237,universal_battery_pack_id,1,14-01-2024,12:53:21,66212.32,66212.32,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+62,12227,generic_lithium_ion_pack_id,1,22-07-2024,18:30:59,40226.18,40226.18,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+63,6523,high_capacity_li_ion_id,1,24-09-2024,13:15:19,69358.59,69358.59,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+64,18243,universal_battery_pack_id,1,11-09-2024,16:57:40,44335.19,44335.19,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+65,16682,high_capacity_li_ion_id,1,07-04-2024,14:57:58,90212.37,90212.37,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+66,17688,generic_lithium_ion_pack_id,1,10-04-2024,11:32:56,58059.49,58059.49,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+67,13773,intelligent_power_pack_id,1,11-02-2024,21:03:19,44813.75,44813.75,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+68,1434,quick_swap_power_pack_id,1,10-07-2024,19:43:40,41441.7,41441.7,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+69,4011,universal_battery_pack_id,1,22-07-2024,13:12:55,39679.69,39679.69,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+70,3995,quick_swap_power_pack_id,1,08-09-2024,20:47:41,29928.89,29928.89,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+71,20458,universal_battery_pack_id,1,27-10-2024,12:14:44,47510.29,47510.29,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+72,18430,universal_battery_pack_id,1,16-05-2024,18:10:37,62003.28,62003.28,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+73,19329,generic_lithium_ion_pack_id,2,13-04-2024,15:19:21,59780.71,119561.41,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+74,13277,intelligent_power_pack_id,1,06-02-2024,21:38:57,31196.06,31196.06,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+75,2372,generic_lithium_ion_pack_id,1,19-12-2024,14:04:34,55666.35,55666.35,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+76,3418,generic_lithium_ion_pack_id,1,19-02-2024,13:07:39,33104.57,33104.57,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+77,9815,high_capacity_li_ion_id,1,04-03-2024,22:33:46,106898.53,106898.53,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+78,17420,intelligent_power_pack_id,1,20-06-2024,16:39:18,40855.58,40855.58,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+79,17760,generic_lithium_ion_pack_id,1,15-03-2024,12:52:51,58830.25,58830.25,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+80,18683,generic_lithium_ion_pack_id,1,01-06-2024,11:55:29,45114.79,45114.79,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+81,6360,intelligent_power_pack_id,1,23-09-2024,17:22:07,27885.67,27885.67,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+82,12002,generic_lithium_ion_pack_id,1,22-10-2024,11:39:13,43736.47,43736.47,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+83,19740,quick_swap_power_pack_id,1,17-01-2024,12:22:37,32435.11,32435.11,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+84,16709,quick_swap_power_pack_id,1,26-04-2024,20:40:33,29713.78,29713.78,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+85,7110,intelligent_power_pack_id,1,18-08-2024,11:57:16,47212.86,47212.86,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+86,10215,generic_lithium_ion_pack_id,1,13-12-2024,20:28:01,36082.76,36082.76,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+87,9207,intelligent_power_pack_id,1,04-05-2024,12:09:28,41623.62,41623.62,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+88,4932,generic_lithium_ion_pack_id,1,22-04-2024,20:20:11,51691.95,51691.95,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+89,16121,high_capacity_li_ion_id,1,18-08-2024,12:38:49,84030.82,84030.82,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+90,10399,intelligent_power_pack_id,1,02-10-2024,13:04:49,33977.12,33977.12,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+91,14590,intelligent_power_pack_id,1,23-05-2024,13:24:56,34611.07,34611.07,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+92,20405,high_capacity_li_ion_id,1,13-10-2024,13:10:36,64338.62,64338.62,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+93,781,quick_swap_power_pack_id,1,24-01-2024,20:31:17,38738.35,38738.35,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+94,19103,quick_swap_power_pack_id,1,02-11-2024,17:34:05,46260.58,46260.58,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+95,14663,generic_lithium_ion_pack_id,1,22-11-2024,17:07:37,37270.12,37270.12,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+96,13082,generic_lithium_ion_pack_id,1,23-01-2024,19:02:31,62318.95,62318.95,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+97,8549,quick_swap_power_pack_id,1,06-01-2024,19:00:38,37817.28,37817.28,XL,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+98,564,universal_battery_pack_id,1,31-10-2024,22:32:32,46585.83,46585.83,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+99,9073,quick_swap_power_pack_id,1,14-04-2024,17:52:02,27814.04,27814.04,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+100,8682,generic_lithium_ion_pack_id,1,20-07-2024,20:47:52,51475.4,51475.4,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+101,18157,universal_battery_pack_id,1,18-10-2024,12:27:27,63743.89,63743.89,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+102,14778,intelligent_power_pack_id,1,03-10-2024,17:50:21,41905.53,41905.53,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+103,1398,high_capacity_li_ion_id,1,24-11-2024,14:04:36,119973.11,119973.11,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+104,5885,generic_lithium_ion_pack_id,1,01-10-2024,16:26:34,50929.59,50929.59,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+105,3201,intelligent_power_pack_id,1,18-05-2024,17:21:33,30647.03,30647.03,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+106,20552,universal_battery_pack_id,1,05-07-2024,19:00:36,53028.47,53028.47,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+107,8133,quick_swap_power_pack_id,1,13-08-2024,17:04:23,36217.35,36217.35,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+108,17940,quick_swap_power_pack_id,1,06-05-2024,12:06:05,49938.49,49938.49,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+109,2176,intelligent_power_pack_id,1,16-03-2024,11:18:53,48376.21,48376.21,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+110,19857,quick_swap_power_pack_id,1,15-02-2024,12:55:08,38982.55,38982.55,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+111,12986,quick_swap_power_pack_id,1,13-04-2024,13:14:50,36399.04,36399.04,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+112,17940,generic_lithium_ion_pack_id,1,29-05-2024,12:06:05,36232.15,36232.15,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+113,290,quick_swap_power_pack_id,1,28-06-2024,17:41:16,27534.67,27534.67,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+114,545,intelligent_power_pack_id,1,10-11-2024,18:46:28,41961.63,41961.63,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+115,4209,generic_lithium_ion_pack_id,1,21-10-2024,17:06:27,58946.77,58946.77,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+116,7159,generic_lithium_ion_pack_id,1,03-12-2024,19:01:44,68917.69,68917.69,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+117,12459,intelligent_power_pack_id,1,31-10-2024,16:03:10,45147.1,45147.1,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+118,7047,intelligent_power_pack_id,1,31-07-2024,19:06:49,25924.82,25924.82,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+119,19508,intelligent_power_pack_id,1,08-02-2024,21:58:21,33070.13,33070.13,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+120,4077,universal_battery_pack_id,1,18-04-2024,13:55:11,65902.31,65902.31,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+121,11425,intelligent_power_pack_id,1,03-03-2024,15:05:32,32894.72,32894.72,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+122,11007,generic_lithium_ion_pack_id,1,20-11-2024,21:33:35,66601.33,66601.33,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+123,3125,universal_battery_pack_id,1,06-10-2024,20:12:37,37010.58,37010.58,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+124,4273,generic_lithium_ion_pack_id,1,03-08-2024,19:13:52,41440.61,41440.61,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+125,17807,generic_lithium_ion_pack_id,1,26-07-2024,22:22:29,52239.65,52239.65,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+126,9331,generic_lithium_ion_pack_id,1,18-12-2024,12:40:05,30729.54,30729.54,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+127,259,high_capacity_li_ion_id,1,28-11-2024,12:04:25,73287.94,73287.94,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+128,20947,generic_lithium_ion_pack_id,1,21-01-2024,12:35:13,60905.79,60905.79,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+129,4413,universal_battery_pack_id,1,18-07-2024,12:23:40,35734.45,35734.45,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+130,1939,high_capacity_li_ion_id,1,23-12-2024,12:29:44,105880.77,105880.77,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+131,9525,quick_swap_power_pack_id,1,02-04-2024,14:03:08,31198.78,31198.78,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+132,5629,generic_lithium_ion_pack_id,1,03-02-2024,22:49:14,62069.9,62069.9,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+133,14057,quick_swap_power_pack_id,1,25-08-2024,19:18:14,31705.32,31705.32,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+134,4962,generic_lithium_ion_pack_id,1,15-07-2024,14:34:44,62466.07,62466.07,XL,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+135,578,generic_lithium_ion_pack_id,1,31-03-2024,13:48:49,51172.36,51172.36,XL,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+136,9887,high_capacity_li_ion_id,1,12-08-2024,14:58:28,89609.83,89609.83,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+137,16445,generic_lithium_ion_pack_id,1,14-01-2024,13:04:13,53502.09,53502.09,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+138,13242,generic_lithium_ion_pack_id,1,15-12-2024,15:31:14,51197.61,51197.61,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+139,18253,intelligent_power_pack_id,1,28-02-2024,17:47:14,25631.78,25631.78,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+140,2643,intelligent_power_pack_id,1,01-10-2024,20:08:34,31541.41,31541.41,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+141,16363,generic_lithium_ion_pack_id,1,18-06-2024,19:39:43,68808.39,68808.39,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+142,18992,universal_battery_pack_id,1,01-06-2024,18:09:24,60549.35,60549.35,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+143,5707,quick_swap_power_pack_id,1,21-08-2024,15:20:28,49821.76,49821.76,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+144,10731,intelligent_power_pack_id,1,18-05-2024,18:44:12,33225.61,33225.61,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+145,6815,intelligent_power_pack_id,1,01-06-2024,22:10:20,38526.04,38526.04,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+146,20788,universal_battery_pack_id,1,21-11-2024,15:56:02,44060.35,44060.35,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+147,17584,intelligent_power_pack_id,1,29-11-2024,15:28:16,41134.59,41134.59,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+148,7358,generic_lithium_ion_pack_id,1,26-07-2024,20:55:29,51249.41,51249.41,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+149,8024,generic_lithium_ion_pack_id,1,16-04-2024,12:36:47,61195.96,61195.96,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+150,7141,universal_battery_pack_id,1,04-07-2024,17:06:02,33731.6,33731.6,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+151,17889,universal_battery_pack_id,1,28-02-2024,13:38:56,49494.58,49494.58,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+152,17887,universal_battery_pack_id,1,27-04-2024,13:09:02,69254.76,69254.76,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+153,17814,generic_lithium_ion_pack_id,2,28-11-2024,13:08:25,47467.15,94934.29,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+154,9643,quick_swap_power_pack_id,1,20-12-2024,13:40:06,43119.69,43119.69,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+155,6563,quick_swap_power_pack_id,1,29-03-2024,20:02:47,25137.59,25137.59,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+156,9162,intelligent_power_pack_id,1,03-07-2024,12:43:17,49504.46,49504.46,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+157,12312,quick_swap_power_pack_id,1,14-06-2024,21:03:15,38947.51,38947.51,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+158,18785,universal_battery_pack_id,1,01-07-2024,21:12:08,51933.84,51933.84,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+159,19236,universal_battery_pack_id,1,31-07-2024,12:19:40,66898.63,66898.63,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+160,10328,universal_battery_pack_id,1,14-02-2024,22:29:15,40877.33,40877.33,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+161,5717,high_capacity_li_ion_id,1,11-04-2024,17:36:25,100721.39,100721.39,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+162,12538,high_capacity_li_ion_id,1,24-05-2024,18:50:09,99336.16,99336.16,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+163,6451,generic_lithium_ion_pack_id,1,03-05-2024,22:38:12,52661.55,52661.55,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+164,6793,quick_swap_power_pack_id,1,26-12-2024,18:01:40,29853.09,29853.09,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+165,20108,generic_lithium_ion_pack_id,1,01-04-2024,13:33:45,37027.45,37027.45,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+166,19402,universal_battery_pack_id,1,25-05-2024,11:21:54,35032.75,35032.75,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+167,1107,intelligent_power_pack_id,1,09-04-2024,15:45:44,39293.83,39293.83,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+168,4787,universal_battery_pack_id,1,01-09-2024,13:01:37,44281.42,44281.42,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+169,1599,generic_lithium_ion_pack_id,1,14-02-2024,18:33:59,59223.69,59223.69,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+170,7171,quick_swap_power_pack_id,1,01-12-2024,11:42:07,43862.95,43862.95,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+171,11587,generic_lithium_ion_pack_id,1,26-08-2024,11:39:55,51522.4,51522.4,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+172,11871,high_capacity_li_ion_id,1,24-09-2024,20:29:22,109766.83,109766.83,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+173,7590,quick_swap_power_pack_id,1,11-03-2024,12:32:04,33579.71,33579.71,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+174,12916,universal_battery_pack_id,1,06-01-2024,11:53:43,48194.82,48194.82,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+175,1405,universal_battery_pack_id,1,20-03-2024,15:00:13,55628.66,55628.66,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+176,3863,intelligent_power_pack_id,1,28-10-2024,19:50:37,47772.03,47772.03,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+177,6488,quick_swap_power_pack_id,1,16-02-2024,18:51:40,31541.0,31541.0,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+178,1744,universal_battery_pack_id,1,27-08-2024,14:26:51,44235.71,44235.71,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+179,15884,universal_battery_pack_id,1,04-05-2024,11:42:00,33621.21,33621.21,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+180,19778,intelligent_power_pack_id,1,29-06-2024,18:36:48,41427.92,41427.92,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+181,5242,high_capacity_li_ion_id,1,02-01-2024,19:56:06,66273.78,66273.78,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+182,10345,generic_lithium_ion_pack_id,1,21-08-2024,13:19:27,41767.68,41767.68,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+183,12445,high_capacity_li_ion_id,1,28-10-2024,13:04:28,69745.69,69745.69,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+184,18131,generic_lithium_ion_pack_id,1,30-11-2024,18:54:32,31187.61,31187.61,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+185,8812,high_capacity_li_ion_id,2,20-05-2024,13:56:53,110342.88,220685.76,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+186,16096,universal_battery_pack_id,1,11-04-2024,18:16:20,51914.09,51914.09,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+187,14010,high_capacity_li_ion_id,1,19-05-2024,22:26:27,115157.02,115157.02,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+188,14281,intelligent_power_pack_id,1,21-08-2024,21:48:23,32399.43,32399.43,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+189,12252,universal_battery_pack_id,1,16-01-2024,12:02:23,57855.62,57855.62,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+190,10679,high_capacity_li_ion_id,1,15-02-2024,19:09:57,75729.01,75729.01,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+191,19946,generic_lithium_ion_pack_id,1,16-12-2024,16:13:46,50539.32,50539.32,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+192,5210,quick_swap_power_pack_id,1,21-02-2024,14:48:09,49856.52,49856.52,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+193,21122,generic_lithium_ion_pack_id,1,28-02-2024,16:08:21,64644.19,64644.19,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+194,8815,universal_battery_pack_id,1,07-12-2024,14:28:47,37231.43,37231.43,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+195,13714,generic_lithium_ion_pack_id,1,20-03-2024,11:29:04,54984.84,54984.84,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+196,10015,quick_swap_power_pack_id,1,23-02-2024,14:41:37,31938.89,31938.89,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+197,2640,quick_swap_power_pack_id,1,25-04-2024,19:21:23,44849.89,44849.89,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+198,17184,intelligent_power_pack_id,1,05-02-2024,16:21:59,36504.65,36504.65,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+199,11626,generic_lithium_ion_pack_id,1,30-04-2024,19:01:05,51070.33,51070.33,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+200,18349,intelligent_power_pack_id,1,25-05-2024,13:48:16,45206.35,45206.35,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+201,11531,universal_battery_pack_id,1,24-11-2024,13:22:39,66151.84,66151.84,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+202,4496,high_capacity_li_ion_id,1,04-01-2024,16:15:33,112775.29,112775.29,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+203,12453,quick_swap_power_pack_id,1,24-02-2024,14:31:51,37301.46,37301.46,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+204,13265,quick_swap_power_pack_id,1,01-10-2024,19:31:39,29300.11,29300.11,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+205,18752,generic_lithium_ion_pack_id,1,03-10-2024,14:38:57,57665.91,57665.91,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+206,11198,high_capacity_li_ion_id,1,11-04-2024,17:45:28,113840.0,113840.0,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+207,19588,high_capacity_li_ion_id,1,15-04-2024,17:08:29,61298.76,61298.76,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+208,2749,generic_lithium_ion_pack_id,1,26-05-2024,17:21:37,64009.49,64009.49,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+209,4216,intelligent_power_pack_id,1,28-06-2024,18:23:38,41175.94,41175.94,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+210,4477,intelligent_power_pack_id,1,17-02-2024,13:03:10,36967.24,36967.24,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+211,6567,universal_battery_pack_id,1,08-06-2024,20:44:30,62752.71,62752.71,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+212,9122,universal_battery_pack_id,1,15-02-2024,15:19:03,54958.5,54958.5,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+213,1247,universal_battery_pack_id,1,12-08-2024,19:54:37,55278.73,55278.73,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+214,628,quick_swap_power_pack_id,1,31-08-2024,22:47:17,43845.35,43845.35,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+215,3185,quick_swap_power_pack_id,1,12-04-2024,13:22:07,42634.13,42634.13,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+216,10218,intelligent_power_pack_id,1,26-04-2024,21:35:21,35022.08,35022.08,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+217,17799,quick_swap_power_pack_id,1,07-11-2024,21:06:50,27378.76,27378.76,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+218,16786,universal_battery_pack_id,2,17-09-2024,12:30:56,42419.33,84838.67,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+219,17512,universal_battery_pack_id,1,25-04-2024,21:25:53,55152.64,55152.64,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+220,11749,quick_swap_power_pack_id,1,17-10-2024,21:08:53,33542.91,33542.91,XL,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+221,18215,generic_lithium_ion_pack_id,1,28-02-2024,22:02:26,36970.6,36970.6,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+222,11672,universal_battery_pack_id,1,02-07-2024,18:09:50,44454.27,44454.27,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+223,10436,intelligent_power_pack_id,1,18-10-2024,19:35:59,32322.16,32322.16,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+224,15258,quick_swap_power_pack_id,1,25-11-2024,17:05:36,37792.47,37792.47,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+225,13096,high_capacity_li_ion_id,1,31-07-2024,12:24:05,65473.74,65473.74,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+226,16797,generic_lithium_ion_pack_id,1,29-05-2024,15:58:32,32687.7,32687.7,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+227,15920,high_capacity_li_ion_id,1,23-08-2024,17:59:49,94247.27,94247.27,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+228,15893,high_capacity_li_ion_id,1,29-04-2024,12:42:00,77734.42,77734.42,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+229,5220,intelligent_power_pack_id,1,14-05-2024,16:50:51,47992.67,47992.67,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+230,2834,universal_battery_pack_id,1,10-09-2024,12:43:07,56338.97,56338.97,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+231,19281,intelligent_power_pack_id,1,18-07-2024,19:51:51,33072.29,33072.29,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+232,3283,intelligent_power_pack_id,1,03-10-2024,10:54:03,29627.54,29627.54,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+233,15917,high_capacity_li_ion_id,1,23-03-2024,17:24:43,115001.57,115001.57,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+234,82,universal_battery_pack_id,1,11-06-2024,12:45:51,66332.8,66332.8,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+235,4123,generic_lithium_ion_pack_id,2,12-12-2024,12:53:38,39292.22,78584.44,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+236,15593,universal_battery_pack_id,1,10-11-2024,11:48:24,33024.49,33024.49,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+237,14017,quick_swap_power_pack_id,1,02-02-2024,12:37:39,35344.39,35344.39,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+238,3686,quick_swap_power_pack_id,1,03-11-2024,20:20:00,28725.2,28725.2,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+239,4528,high_capacity_li_ion_id,1,11-08-2024,19:50:37,116131.1,116131.1,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+240,9755,universal_battery_pack_id,1,18-08-2024,13:02:09,41976.96,41976.96,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+241,17985,intelligent_power_pack_id,1,29-05-2024,21:37:59,43254.52,43254.52,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+242,13308,intelligent_power_pack_id,1,20-09-2024,16:37:17,28480.43,28480.43,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+243,16266,high_capacity_li_ion_id,1,25-01-2024,14:51:57,108931.26,108931.26,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+244,13289,universal_battery_pack_id,1,06-11-2024,12:33:26,63323.55,63323.55,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+245,3219,universal_battery_pack_id,1,12-02-2024,20:21:54,30521.64,30521.64,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+246,14479,intelligent_power_pack_id,1,30-03-2024,14:08:20,34651.11,34651.11,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+247,2915,generic_lithium_ion_pack_id,1,21-05-2024,16:34:02,68899.75,68899.75,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+248,13417,high_capacity_li_ion_id,1,13-03-2024,13:57:07,93556.17,93556.17,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+249,13213,universal_battery_pack_id,1,19-01-2024,21:24:20,63960.34,63960.34,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+250,12915,generic_lithium_ion_pack_id,1,10-08-2024,11:51:14,69288.91,69288.91,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+251,173,generic_lithium_ion_pack_id,1,03-01-2024,17:35:30,47211.97,47211.97,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+252,17772,high_capacity_li_ion_id,1,25-10-2024,14:05:25,70901.46,70901.46,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+253,3584,universal_battery_pack_id,1,26-12-2024,12:30:47,40412.97,40412.97,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+254,3890,quick_swap_power_pack_id,1,03-09-2024,14:01:23,31096.65,31096.65,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+255,1196,quick_swap_power_pack_id,1,08-07-2024,20:44:41,33226.01,33226.01,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+256,2803,quick_swap_power_pack_id,1,20-10-2024,16:23:34,49136.04,49136.04,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+257,5512,generic_lithium_ion_pack_id,1,22-09-2024,12:59:05,61640.23,61640.23,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+258,20321,high_capacity_li_ion_id,1,13-05-2024,19:14:15,107889.13,107889.13,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+259,15555,high_capacity_li_ion_id,1,02-02-2024,15:59:51,65397.88,65397.88,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+260,2644,high_capacity_li_ion_id,1,23-05-2024,20:22:27,68797.94,68797.94,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+261,20196,universal_battery_pack_id,1,18-02-2024,19:29:01,36464.33,36464.33,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+262,3602,generic_lithium_ion_pack_id,1,05-04-2024,14:43:05,60005.59,60005.59,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+263,7797,quick_swap_power_pack_id,1,24-05-2024,17:39:42,43997.51,43997.51,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+264,5832,generic_lithium_ion_pack_id,1,27-09-2024,16:30:57,54869.1,54869.1,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+265,1363,intelligent_power_pack_id,1,07-07-2024,17:46:45,31347.26,31347.26,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+266,19358,intelligent_power_pack_id,1,14-06-2024,18:26:17,42984.52,42984.52,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+267,1309,high_capacity_li_ion_id,1,02-06-2024,20:04:42,65023.33,65023.33,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+268,1922,high_capacity_li_ion_id,1,06-11-2024,20:09:20,73564.02,73564.02,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+269,15193,quick_swap_power_pack_id,1,11-09-2024,17:16:54,36630.0,36630.0,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+270,16516,quick_swap_power_pack_id,1,11-04-2024,15:10:43,35952.88,35952.88,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+271,11927,intelligent_power_pack_id,1,22-06-2024,18:18:50,44612.22,44612.22,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+272,10929,high_capacity_li_ion_id,1,20-11-2024,11:50:40,114134.89,114134.89,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+273,6202,universal_battery_pack_id,1,30-07-2024,21:53:08,45901.24,45901.24,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+274,19271,intelligent_power_pack_id,1,01-05-2024,18:22:35,34680.21,34680.21,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+275,14898,generic_lithium_ion_pack_id,1,27-08-2024,18:42:40,54506.58,54506.58,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+276,21198,generic_lithium_ion_pack_id,1,15-04-2024,15:39:02,61613.64,61613.64,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+277,20411,universal_battery_pack_id,1,11-06-2024,14:19:24,56997.55,56997.55,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+278,10053,universal_battery_pack_id,1,11-03-2024,12:09:43,57762.98,57762.98,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+279,8704,quick_swap_power_pack_id,1,06-07-2024,16:54:40,46641.39,46641.39,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+280,360,generic_lithium_ion_pack_id,1,14-03-2024,18:50:38,49898.36,49898.36,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+281,2073,universal_battery_pack_id,1,08-02-2024,13:35:51,61876.52,61876.52,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+282,13096,quick_swap_power_pack_id,1,12-06-2024,12:24:05,41521.76,41521.76,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+283,1824,intelligent_power_pack_id,1,18-07-2024,18:20:38,26200.67,26200.67,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+284,17090,high_capacity_li_ion_id,1,10-11-2024,18:39:23,108274.71,108274.71,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+285,8011,universal_battery_pack_id,1,22-12-2024,21:02:58,35588.41,35588.41,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+286,16986,quick_swap_power_pack_id,1,01-07-2024,15:48:48,37339.2,37339.2,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+287,1661,universal_battery_pack_id,1,15-03-2024,19:05:34,59184.99,59184.99,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+288,10954,quick_swap_power_pack_id,1,27-12-2024,15:01:45,39315.65,39315.65,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+289,20318,intelligent_power_pack_id,1,23-11-2024,19:01:42,47752.75,47752.75,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+290,3420,generic_lithium_ion_pack_id,1,10-01-2024,13:37:23,46120.48,46120.48,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+291,19401,high_capacity_li_ion_id,1,20-02-2024,22:31:38,103940.95,103940.95,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+292,20703,generic_lithium_ion_pack_id,1,24-10-2024,12:22:17,45833.51,45833.51,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+293,10764,generic_lithium_ion_pack_id,1,10-12-2024,14:24:19,48669.49,48669.49,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+294,14090,intelligent_power_pack_id,1,06-10-2024,15:10:48,42907.66,42907.66,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+295,2908,generic_lithium_ion_pack_id,1,12-10-2024,14:17:18,67756.1,67756.1,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+296,7589,high_capacity_li_ion_id,1,12-02-2024,12:28:02,71003.71,71003.71,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+297,13723,generic_lithium_ion_pack_id,1,08-08-2024,12:30:03,43915.04,43915.04,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+298,20842,intelligent_power_pack_id,1,19-01-2024,13:56:21,43698.82,43698.82,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+299,13131,quick_swap_power_pack_id,1,26-09-2024,19:03:39,30008.31,30008.31,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+300,785,intelligent_power_pack_id,1,16-04-2024,11:28:44,49327.01,49327.01,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+301,12114,universal_battery_pack_id,1,13-08-2024,21:15:17,57682.05,57682.05,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+302,18054,universal_battery_pack_id,1,27-10-2024,13:52:02,50442.09,50442.09,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+303,14184,high_capacity_li_ion_id,1,18-01-2024,12:53:57,107267.29,107267.29,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+304,3786,high_capacity_li_ion_id,1,11-07-2024,15:48:08,93151.06,93151.06,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+305,8069,generic_lithium_ion_pack_id,1,29-02-2024,18:37:09,60010.51,60010.51,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+306,18421,high_capacity_li_ion_id,1,07-05-2024,16:58:03,66661.76,66661.76,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+307,118,intelligent_power_pack_id,1,28-10-2024,19:26:59,32979.02,32979.02,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+308,15202,quick_swap_power_pack_id,1,17-10-2024,17:53:07,46287.62,46287.62,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+309,7978,universal_battery_pack_id,1,19-04-2024,15:31:04,67326.22,67326.22,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+310,17563,high_capacity_li_ion_id,1,22-08-2024,11:34:31,112108.61,112108.61,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+311,6580,universal_battery_pack_id,1,28-10-2024,12:25:55,59641.77,59641.77,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+312,12196,high_capacity_li_ion_id,1,07-08-2024,13:32:31,73946.07,73946.07,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+313,6226,high_capacity_li_ion_id,1,27-04-2024,14:19:41,82413.91,82413.91,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+314,9370,quick_swap_power_pack_id,1,08-09-2024,19:13:35,29623.17,29623.17,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+315,13235,high_capacity_li_ion_id,1,29-06-2024,14:12:12,60387.51,60387.51,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+316,11586,intelligent_power_pack_id,1,06-02-2024,11:38:36,31792.68,31792.68,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+317,15049,high_capacity_li_ion_id,1,31-01-2024,13:54:31,90005.34,90005.34,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+318,12313,generic_lithium_ion_pack_id,1,22-12-2024,21:21:13,35814.76,35814.76,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+319,267,high_capacity_li_ion_id,1,27-02-2024,13:37:50,104040.15,104040.15,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+320,11983,high_capacity_li_ion_id,1,19-08-2024,18:19:23,64008.73,64008.73,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+321,16796,quick_swap_power_pack_id,1,21-05-2024,15:35:26,39599.87,39599.87,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+322,10285,generic_lithium_ion_pack_id,1,26-04-2024,13:04:31,32666.57,32666.57,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+323,7699,generic_lithium_ion_pack_id,1,02-08-2024,20:46:07,38322.92,38322.92,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+324,13042,high_capacity_li_ion_id,1,16-06-2024,12:43:59,72766.84,72766.84,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+325,18655,quick_swap_power_pack_id,1,07-01-2024,18:09:02,40848.37,40848.37,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+326,3127,generic_lithium_ion_pack_id,1,15-04-2024,20:40:10,33671.18,33671.18,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+327,12788,high_capacity_li_ion_id,1,07-06-2024,19:58:11,111387.4,111387.4,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+328,4394,quick_swap_power_pack_id,1,27-11-2024,18:56:08,32790.52,32790.52,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+329,4210,universal_battery_pack_id,1,29-02-2024,17:14:55,61369.52,61369.52,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+330,6030,generic_lithium_ion_pack_id,1,16-08-2024,21:54:53,62906.42,62906.42,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+331,5092,high_capacity_li_ion_id,1,14-09-2024,16:48:30,67421.59,67421.59,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+332,5271,quick_swap_power_pack_id,1,15-01-2024,15:23:57,31014.74,31014.74,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+333,15833,intelligent_power_pack_id,1,20-10-2024,12:49:21,30340.87,30340.87,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+334,18983,quick_swap_power_pack_id,1,10-07-2024,16:36:56,49645.07,49645.07,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+335,608,generic_lithium_ion_pack_id,1,09-05-2024,19:36:33,60122.43,60122.43,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+336,5969,universal_battery_pack_id,1,14-08-2024,22:27:42,34609.19,34609.19,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+337,845,intelligent_power_pack_id,1,15-11-2024,21:42:56,29269.32,29269.32,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+338,1946,high_capacity_li_ion_id,1,30-10-2024,13:01:49,98986.4,98986.4,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+339,3618,universal_battery_pack_id,1,05-01-2024,17:33:55,53814.02,53814.02,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+340,15674,quick_swap_power_pack_id,1,01-04-2024,14:16:35,36355.98,36355.98,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+341,7345,high_capacity_li_ion_id,1,05-03-2024,17:51:25,100130.92,100130.92,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+342,12207,quick_swap_power_pack_id,1,10-07-2024,14:33:46,27473.46,27473.46,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+343,20282,universal_battery_pack_id,1,15-07-2024,12:46:09,47467.35,47467.35,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+344,21155,quick_swap_power_pack_id,1,08-07-2024,15:14:38,30116.7,30116.7,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+345,1734,high_capacity_li_ion_id,1,15-09-2024,12:36:42,74255.8,74255.8,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+346,16288,universal_battery_pack_id,1,18-04-2024,17:54:55,58646.01,58646.01,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+347,1402,universal_battery_pack_id,1,25-06-2024,14:23:57,31388.56,31388.56,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+348,8805,high_capacity_li_ion_id,1,20-11-2024,12:51:34,64893.03,64893.03,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+349,9389,generic_lithium_ion_pack_id,1,29-06-2024,22:55:29,60305.98,60305.98,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+350,15405,high_capacity_li_ion_id,1,19-04-2024,21:59:08,66373.82,66373.82,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+351,2134,high_capacity_li_ion_id,1,14-01-2024,14:36:32,96555.83,96555.83,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+352,2722,universal_battery_pack_id,2,20-05-2024,22:52:37,44355.72,88711.45,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+353,5281,intelligent_power_pack_id,1,03-05-2024,16:56:04,28928.08,28928.08,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+354,19799,quick_swap_power_pack_id,1,11-03-2024,12:46:20,34968.57,34968.57,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+355,12811,high_capacity_li_ion_id,1,06-03-2024,13:48:55,106092.91,106092.91,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+356,14223,generic_lithium_ion_pack_id,1,07-11-2024,20:35:19,33602.34,33602.34,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+357,16503,universal_battery_pack_id,1,30-11-2024,13:09:03,62545.91,62545.91,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+358,5707,quick_swap_power_pack_id,1,23-11-2024,15:20:28,44208.64,44208.64,XL,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+359,408,generic_lithium_ion_pack_id,1,07-08-2024,17:09:09,52718.54,52718.54,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+360,4642,high_capacity_li_ion_id,1,16-12-2024,19:05:06,60343.47,60343.47,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+361,5735,universal_battery_pack_id,1,20-12-2024,21:12:12,59380.95,59380.95,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+362,18552,universal_battery_pack_id,2,25-05-2024,20:31:29,38301.28,76602.57,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+363,11868,universal_battery_pack_id,1,10-05-2024,20:15:48,51134.76,51134.76,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+364,6656,universal_battery_pack_id,1,20-04-2024,14:44:46,68476.46,68476.46,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+365,5393,high_capacity_li_ion_id,1,15-12-2024,13:59:22,69238.45,69238.45,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+366,15723,quick_swap_power_pack_id,1,14-04-2024,11:42:39,33636.65,33636.65,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+367,16835,generic_lithium_ion_pack_id,1,11-09-2024,12:55:18,41563.6,41563.6,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+368,5786,universal_battery_pack_id,1,16-06-2024,19:03:46,31097.4,31097.4,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+369,17243,quick_swap_power_pack_id,1,14-08-2024,16:08:04,31594.97,31594.97,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+370,1186,high_capacity_li_ion_id,1,22-03-2024,19:19:55,86978.32,86978.32,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+371,3369,intelligent_power_pack_id,1,01-12-2024,15:22:08,33153.71,33153.71,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+372,13723,intelligent_power_pack_id,1,16-08-2024,12:30:03,49043.42,49043.42,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+373,8426,intelligent_power_pack_id,1,25-02-2024,18:12:35,41922.16,41922.16,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+374,6456,universal_battery_pack_id,1,18-09-2024,12:16:06,32022.15,32022.15,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+375,19588,quick_swap_power_pack_id,1,20-05-2024,17:08:29,49658.64,49658.64,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+376,21051,universal_battery_pack_id,1,11-09-2024,11:10:35,62260.38,62260.38,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+377,12081,generic_lithium_ion_pack_id,1,10-12-2024,15:22:25,67444.19,67444.19,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+378,10737,generic_lithium_ion_pack_id,1,16-04-2024,20:33:01,58525.33,58525.33,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+379,5999,quick_swap_power_pack_id,1,10-02-2024,16:53:40,44042.76,44042.76,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+380,6300,intelligent_power_pack_id,1,17-02-2024,17:07:44,46681.09,46681.09,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+381,17871,generic_lithium_ion_pack_id,1,17-12-2024,21:26:55,41264.32,41264.32,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+382,10596,intelligent_power_pack_id,1,08-09-2024,15:47:14,35596.22,35596.22,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+383,19452,universal_battery_pack_id,1,30-05-2024,16:59:07,51344.83,51344.83,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+384,4228,universal_battery_pack_id,1,21-01-2024,11:21:11,54950.83,54950.83,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+385,2906,intelligent_power_pack_id,1,06-02-2024,13:34:49,34297.75,34297.75,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+386,19508,intelligent_power_pack_id,1,02-11-2024,21:58:21,32128.58,32128.58,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+387,4944,intelligent_power_pack_id,1,08-09-2024,11:53:50,25436.5,25436.5,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+388,5100,generic_lithium_ion_pack_id,1,22-04-2024,17:49:28,58733.93,58733.93,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+389,14913,high_capacity_li_ion_id,1,20-06-2024,11:47:08,68134.46,68134.46,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+390,9922,universal_battery_pack_id,1,14-06-2024,19:18:21,63902.83,63902.83,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+391,2852,quick_swap_power_pack_id,1,21-02-2024,14:30:43,33038.22,33038.22,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+392,6952,universal_battery_pack_id,1,25-11-2024,12:59:58,56754.68,56754.68,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+393,909,intelligent_power_pack_id,1,21-12-2024,11:19:25,32691.5,32691.5,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+394,20086,high_capacity_li_ion_id,1,23-04-2024,20:28:46,83436.11,83436.11,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+395,3634,universal_battery_pack_id,1,27-12-2024,21:16:40,40076.84,40076.84,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+396,10119,quick_swap_power_pack_id,1,04-09-2024,13:38:04,36566.07,36566.07,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+397,18833,universal_battery_pack_id,1,17-04-2024,20:32:59,67915.56,67915.56,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+398,4192,high_capacity_li_ion_id,1,14-06-2024,13:56:27,61750.43,61750.43,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+399,13449,generic_lithium_ion_pack_id,1,18-01-2024,19:28:28,46734.03,46734.03,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+400,5615,quick_swap_power_pack_id,1,18-12-2024,20:37:20,47257.26,47257.26,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+401,13128,intelligent_power_pack_id,1,05-10-2024,18:58:09,46884.4,46884.4,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+402,14198,generic_lithium_ion_pack_id,1,16-02-2024,16:55:27,34294.91,34294.91,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+403,9462,intelligent_power_pack_id,1,27-11-2024,13:26:34,40051.96,40051.96,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+404,14023,quick_swap_power_pack_id,2,07-05-2024,14:00:44,36650.95,73301.91,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+405,19147,quick_swap_power_pack_id,1,09-09-2024,15:18:51,30763.38,30763.38,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+406,3626,quick_swap_power_pack_id,1,29-09-2024,18:29:51,30864.85,30864.85,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+407,15652,quick_swap_power_pack_id,1,07-09-2024,21:02:28,25803.12,25803.12,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+408,6569,universal_battery_pack_id,1,27-12-2024,21:07:39,46302.0,46302.0,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+409,15404,generic_lithium_ion_pack_id,1,21-11-2024,21:40:39,32204.93,32204.93,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+410,6137,intelligent_power_pack_id,1,16-05-2024,18:16:05,33775.4,33775.4,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+411,18223,intelligent_power_pack_id,1,27-09-2024,13:07:13,28354.23,28354.23,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+412,4555,quick_swap_power_pack_id,1,02-05-2024,13:07:53,28626.62,28626.62,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+413,18928,universal_battery_pack_id,1,25-02-2024,18:21:53,45169.93,45169.93,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+414,8345,intelligent_power_pack_id,1,17-09-2024,14:57:20,45321.86,45321.86,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+415,9489,universal_battery_pack_id,1,30-09-2024,18:38:39,44683.48,44683.48,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+416,11633,generic_lithium_ion_pack_id,1,16-11-2024,20:19:31,37772.25,37772.25,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+417,14281,universal_battery_pack_id,1,03-12-2024,21:48:23,60881.05,60881.05,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+418,14013,universal_battery_pack_id,1,08-08-2024,11:46:44,31396.66,31396.66,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+419,20114,quick_swap_power_pack_id,1,23-07-2024,15:21:00,34291.51,34291.51,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+420,11390,universal_battery_pack_id,1,10-06-2024,19:38:47,66053.03,66053.03,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+421,14644,intelligent_power_pack_id,1,09-07-2024,12:59:50,36155.08,36155.08,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+422,10767,generic_lithium_ion_pack_id,1,02-12-2024,14:45:12,65612.93,65612.93,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+423,11847,high_capacity_li_ion_id,1,06-01-2024,16:30:03,77890.07,77890.07,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+424,16266,intelligent_power_pack_id,1,19-07-2024,14:51:57,42407.73,42407.73,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+425,10611,generic_lithium_ion_pack_id,1,17-09-2024,18:16:25,40159.43,40159.43,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+426,4351,quick_swap_power_pack_id,1,31-07-2024,21:05:17,46256.31,46256.31,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+427,4967,intelligent_power_pack_id,1,20-04-2024,17:02:42,39589.62,39589.62,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+428,5386,universal_battery_pack_id,1,10-06-2024,12:57:44,69199.85,69199.85,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+429,2752,universal_battery_pack_id,1,17-01-2024,17:29:20,57869.52,57869.52,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+430,1500,quick_swap_power_pack_id,1,27-12-2024,11:52:57,41657.25,41657.25,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+431,18841,universal_battery_pack_id,1,29-10-2024,11:46:26,61264.99,61264.99,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+432,4489,quick_swap_power_pack_id,1,24-05-2024,15:26:41,32353.35,32353.35,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+433,21331,universal_battery_pack_id,1,03-03-2024,19:05:04,50973.97,50973.97,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+434,14089,universal_battery_pack_id,1,26-10-2024,14:45:56,41947.86,41947.86,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+435,1265,high_capacity_li_ion_id,1,12-01-2024,12:59:26,119576.65,119576.65,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+436,6570,quick_swap_power_pack_id,1,20-09-2024,21:24:18,40667.27,40667.27,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+437,15041,universal_battery_pack_id,1,27-04-2024,12:30:49,35445.74,35445.74,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+438,17114,universal_battery_pack_id,1,10-10-2024,13:03:25,53141.97,53141.97,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+439,18681,high_capacity_li_ion_id,1,10-10-2024,22:55:14,77485.71,77485.71,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+440,12653,generic_lithium_ion_pack_id,1,10-06-2024,20:26:10,31180.31,31180.31,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+441,6169,universal_battery_pack_id,1,29-07-2024,13:14:51,45994.56,45994.56,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+442,11580,intelligent_power_pack_id,1,24-06-2024,23:02:51,48923.19,48923.19,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+443,10480,quick_swap_power_pack_id,1,30-10-2024,16:15:21,48506.35,48506.35,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+444,18501,generic_lithium_ion_pack_id,1,21-11-2024,12:26:56,57306.1,57306.1,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+445,18957,universal_battery_pack_id,1,19-03-2024,12:28:26,62398.92,62398.92,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+446,15434,generic_lithium_ion_pack_id,1,14-09-2024,15:49:18,55687.22,55687.22,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+447,8807,intelligent_power_pack_id,1,29-02-2024,13:04:19,38181.73,38181.73,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+448,3710,generic_lithium_ion_pack_id,1,13-03-2024,13:48:40,49113.6,49113.6,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+449,19955,universal_battery_pack_id,1,08-05-2024,18:10:57,56693.62,56693.62,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+450,6588,intelligent_power_pack_id,1,24-06-2024,13:21:50,32711.6,32711.6,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+451,12541,generic_lithium_ion_pack_id,1,10-09-2024,19:09:15,51923.9,51923.9,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+452,19075,universal_battery_pack_id,1,04-08-2024,22:52:49,57779.23,57779.23,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+453,1299,generic_lithium_ion_pack_id,1,23-01-2024,17:56:07,30737.67,30737.67,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+454,9663,quick_swap_power_pack_id,1,18-05-2024,17:28:39,41503.43,41503.43,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+455,21208,generic_lithium_ion_pack_id,1,28-04-2024,18:12:37,48288.13,48288.13,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+456,21198,intelligent_power_pack_id,1,14-05-2024,15:39:02,43657.09,43657.09,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+457,19822,intelligent_power_pack_id,1,16-02-2024,17:11:51,46714.9,46714.9,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+458,6999,high_capacity_li_ion_id,1,31-03-2024,20:42:34,63128.32,63128.32,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+459,16240,quick_swap_power_pack_id,1,05-11-2024,12:20:43,29348.76,29348.76,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+460,11659,high_capacity_li_ion_id,1,21-05-2024,14:21:28,66446.16,66446.16,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+461,13885,quick_swap_power_pack_id,1,18-11-2024,21:50:40,27565.83,27565.83,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+462,15269,high_capacity_li_ion_id,1,21-06-2024,18:28:44,80065.81,80065.81,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+463,3937,universal_battery_pack_id,1,21-02-2024,23:02:35,49449.83,49449.83,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+464,11507,high_capacity_li_ion_id,1,08-01-2024,19:41:07,86175.71,86175.71,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+465,17295,quick_swap_power_pack_id,1,13-10-2024,13:49:59,41703.37,41703.37,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+466,15499,intelligent_power_pack_id,1,05-12-2024,15:07:30,41203.59,41203.59,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+467,10616,quick_swap_power_pack_id,1,06-06-2024,18:29:27,37001.17,37001.17,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+468,6909,generic_lithium_ion_pack_id,1,14-01-2024,17:21:17,43521.06,43521.06,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+469,18845,intelligent_power_pack_id,1,04-11-2024,12:25:12,32226.9,32226.9,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+470,9575,high_capacity_li_ion_id,1,18-04-2024,12:20:23,62351.27,62351.27,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+471,20231,universal_battery_pack_id,1,02-07-2024,14:05:07,40134.4,40134.4,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+472,19955,high_capacity_li_ion_id,1,23-05-2024,18:10:57,85451.23,85451.23,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+473,9667,quick_swap_power_pack_id,1,04-05-2024,17:47:35,44284.02,44284.02,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+474,10285,intelligent_power_pack_id,1,01-11-2024,13:04:31,37117.4,37117.4,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+475,10096,quick_swap_power_pack_id,1,05-07-2024,19:34:18,45357.14,45357.14,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+476,1043,universal_battery_pack_id,2,01-02-2024,14:07:36,64862.02,129724.04,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+477,1923,high_capacity_li_ion_id,1,15-09-2024,20:34:14,113190.8,113190.8,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+478,11257,generic_lithium_ion_pack_id,1,29-06-2024,18:00:41,35580.33,35580.33,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+479,562,high_capacity_li_ion_id,1,07-07-2024,22:04:05,109173.56,109173.56,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+480,8857,high_capacity_li_ion_id,1,29-03-2024,13:21:21,119411.78,119411.78,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+481,9276,intelligent_power_pack_id,1,15-03-2024,13:48:18,48331.23,48331.23,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+482,17584,generic_lithium_ion_pack_id,1,05-09-2024,15:28:16,69080.56,69080.56,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+483,14313,universal_battery_pack_id,1,02-10-2024,15:18:44,54051.48,54051.48,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+484,1914,quick_swap_power_pack_id,1,05-02-2024,19:24:03,44249.09,44249.09,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+485,17417,quick_swap_power_pack_id,1,26-01-2024,16:12:53,29209.51,29209.51,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+486,3371,generic_lithium_ion_pack_id,1,10-10-2024,15:58:02,60878.63,60878.63,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+487,15466,high_capacity_li_ion_id,1,25-07-2024,21:54:58,80615.06,80615.06,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+488,113,high_capacity_li_ion_id,1,02-04-2024,18:50:21,77665.36,77665.36,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+489,17706,high_capacity_li_ion_id,1,22-02-2024,13:49:14,84468.72,84468.72,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+490,7875,quick_swap_power_pack_id,1,11-11-2024,20:39:30,46818.62,46818.62,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+491,17384,quick_swap_power_pack_id,1,03-03-2024,21:36:21,33171.94,33171.94,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+492,14198,high_capacity_li_ion_id,1,26-08-2024,16:55:27,64663.28,64663.28,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+493,19327,quick_swap_power_pack_id,1,05-06-2024,14:58:08,33420.66,33420.66,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+494,19706,quick_swap_power_pack_id,1,05-10-2024,17:02:20,26045.55,26045.55,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+495,6126,generic_lithium_ion_pack_id,1,01-08-2024,17:06:54,44683.67,44683.67,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+496,11815,high_capacity_li_ion_id,1,10-08-2024,12:28:50,89670.1,89670.1,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+497,6875,universal_battery_pack_id,1,14-06-2024,21:30:16,69665.43,69665.43,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+498,9545,high_capacity_li_ion_id,1,28-12-2024,17:14:17,75758.82,75758.82,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+499,13188,universal_battery_pack_id,1,11-10-2024,18:07:29,30983.88,30983.88,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+500,6643,universal_battery_pack_id,1,14-09-2024,12:24:35,68197.42,68197.42,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+501,171,quick_swap_power_pack_id,1,29-07-2024,17:23:03,40115.1,40115.1,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+502,8482,quick_swap_power_pack_id,1,04-09-2024,18:10:16,45775.08,45775.08,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+503,14269,intelligent_power_pack_id,1,28-11-2024,18:13:59,29797.54,29797.54,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+504,2988,high_capacity_li_ion_id,1,13-04-2024,17:42:25,90969.25,90969.25,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+505,4760,universal_battery_pack_id,1,24-03-2024,17:26:32,37333.63,37333.63,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+506,15473,quick_swap_power_pack_id,1,22-05-2024,11:50:09,45337.71,45337.71,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+507,838,high_capacity_li_ion_id,1,22-02-2024,20:33:57,67883.54,67883.54,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+508,18924,universal_battery_pack_id,1,23-03-2024,17:57:18,36027.62,36027.62,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+509,2824,quick_swap_power_pack_id,1,31-01-2024,19:55:28,37892.52,37892.52,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+510,7654,quick_swap_power_pack_id,1,19-12-2024,12:35:57,38571.84,38571.84,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+511,16746,intelligent_power_pack_id,1,15-10-2024,16:43:44,29278.61,29278.61,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+512,13948,high_capacity_li_ion_id,1,01-01-2024,12:18:36,108761.68,108761.68,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+513,4718,high_capacity_li_ion_id,1,09-02-2024,21:11:17,119085.35,119085.35,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+514,16498,high_capacity_li_ion_id,1,27-04-2024,12:47:27,109194.31,109194.31,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+515,21102,generic_lithium_ion_pack_id,1,27-07-2024,21:00:25,40728.58,40728.58,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+516,14057,generic_lithium_ion_pack_id,1,20-12-2024,19:18:14,40279.47,40279.47,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+517,18892,universal_battery_pack_id,1,30-11-2024,12:48:43,55758.67,55758.67,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+518,10352,quick_swap_power_pack_id,1,03-10-2024,14:23:23,39350.47,39350.47,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+519,8404,intelligent_power_pack_id,1,26-11-2024,14:03:40,48506.76,48506.76,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+520,20971,generic_lithium_ion_pack_id,1,29-06-2024,16:34:38,52095.8,52095.8,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+521,7175,universal_battery_pack_id,1,10-06-2024,12:04:42,48298.42,48298.42,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+522,4233,generic_lithium_ion_pack_id,1,18-04-2024,12:26:06,63912.89,63912.89,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+523,7725,universal_battery_pack_id,1,05-03-2024,15:45:52,60173.34,60173.34,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+524,9284,universal_battery_pack_id,1,11-02-2024,15:15:15,65376.15,65376.15,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+525,14089,universal_battery_pack_id,1,12-09-2024,14:45:56,33205.06,33205.06,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+526,7809,intelligent_power_pack_id,1,23-07-2024,19:17:30,41205.71,41205.71,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+527,13169,intelligent_power_pack_id,1,19-11-2024,16:03:22,39502.33,39502.33,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+528,4440,quick_swap_power_pack_id,1,10-03-2024,16:47:41,32991.6,32991.6,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+529,12746,generic_lithium_ion_pack_id,2,14-04-2024,14:30:06,48360.81,96721.61,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+530,17838,universal_battery_pack_id,1,20-12-2024,17:37:07,39910.31,39910.31,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+531,2481,universal_battery_pack_id,1,07-05-2024,12:54:36,53648.63,53648.63,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+532,219,quick_swap_power_pack_id,1,19-07-2024,14:42:01,33344.2,33344.2,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+533,13212,universal_battery_pack_id,1,31-05-2024,21:22:11,60805.95,60805.95,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+534,13716,generic_lithium_ion_pack_id,1,21-07-2024,11:52:01,31150.89,31150.89,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+535,18163,quick_swap_power_pack_id,1,30-12-2024,13:01:56,30365.97,30365.97,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+536,2752,generic_lithium_ion_pack_id,1,27-04-2024,17:29:20,68442.08,68442.08,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+537,16871,generic_lithium_ion_pack_id,1,11-08-2024,19:27:07,38741.37,38741.37,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+538,7601,generic_lithium_ion_pack_id,1,25-07-2024,14:15:04,66117.84,66117.84,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+539,20075,quick_swap_power_pack_id,1,25-05-2024,18:59:31,47901.7,47901.7,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+540,15835,quick_swap_power_pack_id,1,15-02-2024,13:00:31,47539.88,47539.88,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+541,15175,universal_battery_pack_id,1,23-07-2024,14:14:32,34181.2,34181.2,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+542,18149,intelligent_power_pack_id,1,28-11-2024,11:25:22,25658.6,25658.6,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+543,13156,high_capacity_li_ion_id,1,16-12-2024,12:34:12,112155.12,112155.12,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+544,3320,high_capacity_li_ion_id,1,15-01-2024,17:09:14,99530.19,99530.19,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+545,3286,universal_battery_pack_id,1,20-07-2024,11:50:16,66076.21,66076.21,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+546,10007,quick_swap_power_pack_id,1,04-06-2024,12:57:10,40626.15,40626.15,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+547,394,intelligent_power_pack_id,1,29-02-2024,14:02:18,25544.7,25544.7,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+548,18666,high_capacity_li_ion_id,1,22-06-2024,19:40:11,85403.1,85403.1,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+549,6814,generic_lithium_ion_pack_id,1,20-01-2024,22:05:21,53004.31,53004.31,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+550,16651,universal_battery_pack_id,1,31-10-2024,19:11:48,52806.21,52806.21,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+551,432,intelligent_power_pack_id,1,03-06-2024,11:39:07,40931.71,40931.71,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+552,2278,universal_battery_pack_id,1,02-06-2024,19:02:51,69199.86,69199.86,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+553,3786,generic_lithium_ion_pack_id,1,26-09-2024,15:48:08,55794.13,55794.13,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+554,10003,high_capacity_li_ion_id,1,05-01-2024,12:42:25,104931.22,104931.22,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+555,16390,universal_battery_pack_id,1,28-04-2024,14:16:28,35602.54,35602.54,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+556,15902,high_capacity_li_ion_id,1,08-04-2024,15:14:11,64737.53,64737.53,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+557,4144,quick_swap_power_pack_id,1,20-02-2024,16:20:07,25822.27,25822.27,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+558,17749,universal_battery_pack_id,1,10-12-2024,11:42:04,65943.33,65943.33,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+559,7773,generic_lithium_ion_pack_id,1,25-04-2024,13:04:25,38866.85,38866.85,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+560,16102,quick_swap_power_pack_id,1,13-10-2024,19:14:35,26244.19,26244.19,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+561,3069,intelligent_power_pack_id,1,21-01-2024,20:47:39,33523.0,33523.0,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+562,13814,high_capacity_li_ion_id,1,19-02-2024,18:00:24,66670.2,66670.2,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+563,6427,quick_swap_power_pack_id,1,08-04-2024,18:25:04,46815.22,46815.22,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+564,6749,generic_lithium_ion_pack_id,1,10-07-2024,22:37:52,60017.43,60017.43,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+565,16573,quick_swap_power_pack_id,1,30-07-2024,13:52:21,46297.62,46297.62,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+566,15466,quick_swap_power_pack_id,1,15-09-2024,21:54:58,42339.99,42339.99,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+567,1334,quick_swap_power_pack_id,1,01-12-2024,13:00:58,36568.98,36568.98,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+568,7613,generic_lithium_ion_pack_id,1,03-05-2024,17:21:38,59349.96,59349.96,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+569,18937,high_capacity_li_ion_id,1,02-09-2024,19:13:57,105946.12,105946.12,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+570,10782,quick_swap_power_pack_id,1,02-02-2024,18:09:41,34655.94,34655.94,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+571,13392,high_capacity_li_ion_id,1,21-07-2024,20:28:28,91380.5,91380.5,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+572,9052,high_capacity_li_ion_id,1,15-09-2024,14:31:16,68116.2,68116.2,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+573,18802,high_capacity_li_ion_id,1,25-12-2024,12:46:22,95237.76,95237.76,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+574,18187,generic_lithium_ion_pack_id,1,30-11-2024,17:54:07,57109.46,57109.46,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+575,19332,intelligent_power_pack_id,1,01-04-2024,15:52:06,38218.98,38218.98,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+576,3908,generic_lithium_ion_pack_id,1,30-09-2024,18:17:47,68404.99,68404.99,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+577,8510,generic_lithium_ion_pack_id,1,23-11-2024,22:15:52,34825.5,34825.5,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+578,17601,universal_battery_pack_id,1,17-12-2024,17:53:06,40464.33,40464.33,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+579,11385,intelligent_power_pack_id,1,07-01-2024,18:42:17,47167.74,47167.74,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+580,17316,universal_battery_pack_id,1,10-11-2024,19:00:13,38723.34,38723.34,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+581,5107,universal_battery_pack_id,1,30-11-2024,18:15:26,39320.83,39320.83,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+582,7908,universal_battery_pack_id,1,08-01-2024,14:53:14,49321.64,49321.64,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+583,2702,quick_swap_power_pack_id,1,19-01-2024,18:54:29,47384.14,47384.14,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+584,18361,quick_swap_power_pack_id,1,28-07-2024,16:17:20,40072.16,40072.16,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+585,6895,quick_swap_power_pack_id,1,25-01-2024,14:01:20,36142.13,36142.13,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+586,20132,high_capacity_li_ion_id,1,16-02-2024,19:49:39,105474.17,105474.17,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+587,11158,universal_battery_pack_id,1,15-07-2024,20:07:01,68149.72,68149.72,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+588,1411,intelligent_power_pack_id,1,05-11-2024,16:36:53,47925.96,47925.96,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+589,10230,generic_lithium_ion_pack_id,1,15-05-2024,13:19:02,59630.27,59630.27,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+590,4911,high_capacity_li_ion_id,1,09-01-2024,16:50:08,82256.73,82256.73,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+591,8585,high_capacity_li_ion_id,1,17-02-2024,13:25:13,61876.13,61876.13,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+592,13235,universal_battery_pack_id,1,03-03-2024,14:12:12,51548.75,51548.75,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+593,15500,generic_lithium_ion_pack_id,1,05-02-2024,15:13:31,34289.29,34289.29,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+594,21131,intelligent_power_pack_id,1,10-09-2024,18:54:07,35728.53,35728.53,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+595,14770,generic_lithium_ion_pack_id,1,26-11-2024,16:31:57,64124.9,64124.9,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+596,8069,universal_battery_pack_id,1,07-02-2024,18:37:09,38227.56,38227.56,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+597,21202,universal_battery_pack_id,1,13-03-2024,17:06:33,55456.14,55456.14,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+598,16903,high_capacity_li_ion_id,1,26-08-2024,13:26:22,61572.98,61572.98,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+599,2061,generic_lithium_ion_pack_id,1,04-05-2024,11:49:00,56632.18,56632.18,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+600,20305,universal_battery_pack_id,1,15-08-2024,17:23:02,55714.82,55714.82,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+601,15438,intelligent_power_pack_id,1,09-03-2024,16:27:08,26993.0,26993.0,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+602,2838,intelligent_power_pack_id,1,07-10-2024,13:00:48,40593.24,40593.24,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+603,8263,generic_lithium_ion_pack_id,1,18-12-2024,19:03:24,58773.3,58773.3,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+604,19826,high_capacity_li_ion_id,1,06-10-2024,17:41:59,107560.56,107560.56,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+605,15429,universal_battery_pack_id,1,12-09-2024,15:01:26,49582.46,49582.46,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+606,12635,quick_swap_power_pack_id,1,23-03-2024,16:53:12,43493.53,43493.53,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+607,14627,intelligent_power_pack_id,1,02-04-2024,20:19:31,25987.74,25987.74,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+608,1534,generic_lithium_ion_pack_id,1,08-07-2024,16:21:23,36342.89,36342.89,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+609,15444,universal_battery_pack_id,1,24-01-2024,17:26:44,43081.85,43081.85,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+610,1080,quick_swap_power_pack_id,1,21-02-2024,21:22:58,47736.44,47736.44,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+611,2439,intelligent_power_pack_id,1,19-03-2024,16:43:26,31890.3,31890.3,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+612,20758,generic_lithium_ion_pack_id,1,28-04-2024,20:45:20,40549.48,40549.48,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+613,17442,quick_swap_power_pack_id,1,20-12-2024,19:35:00,39320.3,39320.3,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+614,7113,intelligent_power_pack_id,1,04-11-2024,12:21:01,43447.97,43447.97,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+615,12746,quick_swap_power_pack_id,1,21-11-2024,14:30:06,30796.63,30796.63,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+616,5777,quick_swap_power_pack_id,1,21-01-2024,18:00:25,32455.21,32455.21,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+617,2455,generic_lithium_ion_pack_id,1,18-05-2024,19:07:28,39226.22,39226.22,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+618,8300,quick_swap_power_pack_id,1,12-09-2024,16:04:58,34510.06,34510.06,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+619,5095,generic_lithium_ion_pack_id,1,07-03-2024,17:04:40,37723.31,37723.31,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+620,3652,quick_swap_power_pack_id,1,22-01-2024,13:21:01,31339.44,31339.44,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+621,18667,quick_swap_power_pack_id,1,23-09-2024,19:49:29,38684.08,38684.08,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+622,16760,intelligent_power_pack_id,1,13-05-2024,19:11:17,26238.74,26238.74,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+623,6016,generic_lithium_ion_pack_id,1,04-03-2024,19:38:31,56354.65,56354.65,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+624,14532,high_capacity_li_ion_id,1,09-10-2024,13:13:21,83218.43,83218.43,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+625,17300,high_capacity_li_ion_id,1,22-04-2024,15:36:35,107439.1,107439.1,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+626,7573,high_capacity_li_ion_id,1,25-05-2024,20:18:38,104335.89,104335.89,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+627,1469,quick_swap_power_pack_id,1,31-08-2024,15:23:21,40649.41,40649.41,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+628,6381,quick_swap_power_pack_id,1,18-09-2024,20:07:59,33532.73,33532.73,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+629,14787,quick_swap_power_pack_id,1,21-10-2024,18:47:53,49190.62,49190.62,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+630,2540,high_capacity_li_ion_id,1,07-02-2024,11:48:50,83203.68,83203.68,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+631,11265,intelligent_power_pack_id,1,18-12-2024,19:49:28,38614.97,38614.97,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+632,10456,universal_battery_pack_id,2,14-06-2024,12:10:03,51557.92,103115.83,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+633,17551,high_capacity_li_ion_id,1,26-04-2024,18:50:54,116629.49,116629.49,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+634,440,universal_battery_pack_id,1,04-06-2024,12:16:34,53864.74,53864.74,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+635,11562,high_capacity_li_ion_id,1,25-07-2024,18:41:14,78725.21,78725.21,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+636,3553,intelligent_power_pack_id,1,04-11-2024,17:29:42,42955.04,42955.04,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+637,13835,high_capacity_li_ion_id,1,03-06-2024,11:28:13,89646.92,89646.92,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+638,11493,quick_swap_power_pack_id,1,16-03-2024,17:26:25,48289.15,48289.15,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+639,13523,quick_swap_power_pack_id,1,10-03-2024,12:54:17,38098.94,38098.94,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+640,10044,high_capacity_li_ion_id,1,27-02-2024,21:52:02,105052.83,105052.83,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+641,10636,intelligent_power_pack_id,1,15-05-2024,20:35:45,41764.62,41764.62,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+642,833,intelligent_power_pack_id,1,30-07-2024,19:07:45,49569.39,49569.39,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+643,11487,intelligent_power_pack_id,1,28-01-2024,16:05:35,48981.82,48981.82,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+644,6928,high_capacity_li_ion_id,1,01-11-2024,20:57:33,92376.29,92376.29,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+645,20586,generic_lithium_ion_pack_id,1,03-03-2024,13:24:27,68247.34,68247.34,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+646,7688,generic_lithium_ion_pack_id,1,27-09-2024,18:51:37,67403.55,67403.55,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+647,17404,quick_swap_power_pack_id,1,05-02-2024,13:34:07,37044.04,37044.04,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+648,3704,universal_battery_pack_id,1,30-01-2024,13:06:24,59999.05,59999.05,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+649,20547,intelligent_power_pack_id,1,26-12-2024,18:34:38,30194.49,30194.49,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+650,2820,high_capacity_li_ion_id,1,24-02-2024,19:35:17,65650.68,65650.68,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+651,14903,intelligent_power_pack_id,1,29-10-2024,19:27:25,44245.97,44245.97,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+652,8093,generic_lithium_ion_pack_id,1,17-06-2024,20:45:10,69585.17,69585.17,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+653,4713,quick_swap_power_pack_id,1,03-03-2024,20:08:33,40607.64,40607.64,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+654,10149,intelligent_power_pack_id,1,19-04-2024,18:54:34,36471.1,36471.1,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+655,6453,high_capacity_li_ion_id,1,15-04-2024,11:48:16,64467.17,64467.17,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+656,16909,intelligent_power_pack_id,1,03-05-2024,15:26:39,35160.66,35160.66,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+657,5022,high_capacity_li_ion_id,1,13-05-2024,14:23:37,111093.8,111093.8,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+658,6830,generic_lithium_ion_pack_id,1,15-04-2024,13:38:28,62752.14,62752.14,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+659,8037,generic_lithium_ion_pack_id,1,13-09-2024,13:54:19,44864.31,44864.31,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+660,13256,high_capacity_li_ion_id,1,30-08-2024,17:56:31,69595.31,69595.31,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+661,20516,generic_lithium_ion_pack_id,1,20-01-2024,12:19:14,45890.74,45890.74,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+662,12820,quick_swap_power_pack_id,1,29-06-2024,16:13:34,36323.45,36323.45,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+663,7047,high_capacity_li_ion_id,1,22-11-2024,19:06:49,89725.68,89725.68,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+664,448,generic_lithium_ion_pack_id,1,29-07-2024,13:03:34,37125.81,37125.81,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+665,16782,high_capacity_li_ion_id,1,10-02-2024,22:59:13,92440.09,92440.09,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+666,18113,quick_swap_power_pack_id,1,25-05-2024,15:21:36,42106.76,42106.76,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+667,19875,generic_lithium_ion_pack_id,1,12-10-2024,15:51:23,52134.29,52134.29,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+668,18223,high_capacity_li_ion_id,1,30-08-2024,13:07:13,83153.15,83153.15,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+669,1838,intelligent_power_pack_id,1,09-09-2024,20:56:38,43896.88,43896.88,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+670,12204,intelligent_power_pack_id,2,05-04-2024,14:02:10,26838.41,53676.81,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+671,16769,generic_lithium_ion_pack_id,1,06-07-2024,20:30:23,64981.93,64981.93,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+672,4496,intelligent_power_pack_id,1,14-09-2024,16:15:33,45813.5,45813.5,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+673,13009,quick_swap_power_pack_id,1,28-01-2024,18:00:16,47604.52,47604.52,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+674,9759,high_capacity_li_ion_id,1,18-07-2024,13:17:54,95736.76,95736.76,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+675,10238,high_capacity_li_ion_id,1,22-11-2024,14:26:54,104477.12,104477.12,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+676,17026,generic_lithium_ion_pack_id,1,24-10-2024,19:40:30,65091.66,65091.66,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+677,15034,universal_battery_pack_id,1,21-04-2024,11:30:43,33980.58,33980.58,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+678,128,quick_swap_power_pack_id,1,07-05-2024,21:05:06,49793.02,49793.02,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+679,5352,universal_battery_pack_id,1,06-07-2024,18:04:35,37513.23,37513.23,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+680,17437,universal_battery_pack_id,1,25-05-2024,18:57:47,31586.75,31586.75,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+681,17916,generic_lithium_ion_pack_id,1,25-04-2024,18:35:58,33171.26,33171.26,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+682,18941,intelligent_power_pack_id,1,27-08-2024,20:13:18,34312.18,34312.18,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+683,534,universal_battery_pack_id,1,24-03-2024,16:43:32,50615.88,50615.88,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+684,452,generic_lithium_ion_pack_id,1,17-03-2024,13:24:11,30653.16,30653.16,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+685,21308,quick_swap_power_pack_id,1,20-11-2024,16:44:35,37797.08,37797.08,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+686,7133,high_capacity_li_ion_id,1,04-09-2024,15:44:32,109242.63,109242.63,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+687,2557,intelligent_power_pack_id,1,11-12-2024,14:09:47,39511.46,39511.46,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+688,9193,intelligent_power_pack_id,1,09-05-2024,17:44:17,25345.41,25345.41,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+689,18957,quick_swap_power_pack_id,1,12-08-2024,12:28:26,30622.6,30622.6,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+690,19984,high_capacity_li_ion_id,1,01-10-2024,13:17:15,67503.63,67503.63,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+691,1754,generic_lithium_ion_pack_id,1,12-04-2024,17:11:32,50958.79,50958.79,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+692,14766,intelligent_power_pack_id,1,04-12-2024,15:03:38,36678.7,36678.7,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+693,14764,generic_lithium_ion_pack_id,1,26-01-2024,14:19:19,32116.37,32116.37,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+694,239,intelligent_power_pack_id,1,21-01-2024,19:57:52,28757.93,28757.93,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+695,16411,high_capacity_li_ion_id,1,06-08-2024,17:39:10,70774.29,70774.29,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+696,16700,universal_battery_pack_id,1,31-05-2024,19:17:42,42740.23,42740.23,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+697,9214,intelligent_power_pack_id,1,03-12-2024,12:41:43,41881.36,41881.36,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+698,2309,high_capacity_li_ion_id,1,04-10-2024,13:06:36,107621.42,107621.42,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+699,20139,high_capacity_li_ion_id,1,08-06-2024,20:28:45,95849.84,95849.84,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+700,13369,intelligent_power_pack_id,1,16-11-2024,16:07:05,39944.24,39944.24,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+701,17271,intelligent_power_pack_id,1,29-07-2024,21:38:55,29714.24,29714.24,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+702,10614,universal_battery_pack_id,1,15-08-2024,18:18:41,33421.96,33421.96,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+703,621,generic_lithium_ion_pack_id,1,29-02-2024,20:49:29,36831.44,36831.44,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+704,10127,high_capacity_li_ion_id,1,30-03-2024,14:47:03,69067.37,69067.37,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+705,8842,universal_battery_pack_id,1,07-04-2024,19:35:27,57226.0,57226.0,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+706,1831,universal_battery_pack_id,1,04-06-2024,20:02:14,39782.14,39782.14,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+707,19687,universal_battery_pack_id,1,21-07-2024,13:03:40,44541.48,44541.48,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+708,8375,quick_swap_power_pack_id,1,18-11-2024,19:47:23,27940.03,27940.03,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+709,1995,generic_lithium_ion_pack_id,1,15-05-2024,22:19:33,67375.29,67375.29,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+710,5634,quick_swap_power_pack_id,1,05-05-2024,13:04:21,45652.52,45652.52,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+711,12041,quick_swap_power_pack_id,1,26-12-2024,18:23:07,32079.47,32079.47,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+712,15577,universal_battery_pack_id,1,13-09-2024,18:14:07,39658.59,39658.59,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+713,20590,quick_swap_power_pack_id,1,07-06-2024,13:56:47,26978.64,26978.64,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+714,20008,quick_swap_power_pack_id,1,06-09-2024,18:17:33,49397.69,49397.69,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+715,1411,intelligent_power_pack_id,1,28-03-2024,16:36:53,37924.95,37924.95,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+716,2236,universal_battery_pack_id,1,01-06-2024,21:32:03,64729.2,64729.2,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+717,17572,high_capacity_li_ion_id,1,01-06-2024,12:58:36,64879.31,64879.31,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+718,20591,universal_battery_pack_id,1,19-07-2024,14:05:32,54884.79,54884.79,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+719,3652,quick_swap_power_pack_id,1,30-06-2024,13:21:01,39281.5,39281.5,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+720,5872,generic_lithium_ion_pack_id,1,06-12-2024,13:07:26,58933.94,58933.94,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+721,7183,high_capacity_li_ion_id,1,18-08-2024,12:33:41,110817.35,110817.35,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+722,2236,generic_lithium_ion_pack_id,1,05-09-2024,21:32:03,52639.69,52639.69,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+723,16257,universal_battery_pack_id,1,09-12-2024,13:39:50,61779.5,61779.5,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+724,15654,intelligent_power_pack_id,1,02-03-2024,21:08:38,42587.14,42587.14,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+725,985,universal_battery_pack_id,1,28-05-2024,14:34:50,42502.53,42502.53,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+726,143,quick_swap_power_pack_id,1,01-06-2024,13:41:36,28500.02,28500.02,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+727,193,universal_battery_pack_id,1,10-04-2024,20:55:47,41109.85,41109.85,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+728,14407,quick_swap_power_pack_id,1,07-02-2024,21:23:51,40171.61,40171.61,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+729,19906,generic_lithium_ion_pack_id,1,28-02-2024,20:00:54,48839.34,48839.34,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+730,19835,intelligent_power_pack_id,1,13-02-2024,19:26:12,32817.4,32817.4,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+731,13651,quick_swap_power_pack_id,1,04-06-2024,20:48:30,40795.61,40795.61,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+732,4408,quick_swap_power_pack_id,1,01-05-2024,12:11:56,42993.5,42993.5,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+733,8924,universal_battery_pack_id,1,16-07-2024,13:46:55,45435.77,45435.77,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+734,9038,universal_battery_pack_id,1,16-05-2024,12:20:31,54049.72,54049.72,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+735,3844,generic_lithium_ion_pack_id,1,15-05-2024,15:59:29,46192.34,46192.34,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+736,2096,generic_lithium_ion_pack_id,1,24-04-2024,18:11:16,47455.88,47455.88,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+737,11230,generic_lithium_ion_pack_id,1,10-11-2024,12:28:41,44812.51,44812.51,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+738,15473,high_capacity_li_ion_id,1,29-04-2024,11:50:09,107204.67,107204.67,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+739,1169,intelligent_power_pack_id,1,06-06-2024,16:08:25,42677.87,42677.87,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+740,12499,intelligent_power_pack_id,1,11-12-2024,12:54:46,45922.75,45922.75,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+741,1938,universal_battery_pack_id,1,06-08-2024,11:46:18,57306.76,57306.76,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+742,10614,intelligent_power_pack_id,1,20-01-2024,18:18:41,26117.75,26117.75,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+743,3272,high_capacity_li_ion_id,1,24-01-2024,19:43:11,74648.74,74648.74,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+744,17302,quick_swap_power_pack_id,1,30-04-2024,16:55:46,40061.42,40061.42,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+745,14503,universal_battery_pack_id,1,09-01-2024,18:51:33,38293.36,38293.36,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+746,8336,universal_battery_pack_id,1,10-06-2024,13:46:47,67623.4,67623.4,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+747,10930,high_capacity_li_ion_id,1,20-07-2024,11:53:36,89440.19,89440.19,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+748,12168,intelligent_power_pack_id,1,14-04-2024,19:30:32,48253.81,48253.81,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+749,11605,high_capacity_li_ion_id,1,15-07-2024,14:30:53,79104.94,79104.94,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+750,18792,high_capacity_li_ion_id,1,07-03-2024,11:33:33,87204.98,87204.98,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+751,12390,high_capacity_li_ion_id,1,21-11-2024,14:20:37,83335.85,83335.85,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+752,74,generic_lithium_ion_pack_id,1,27-03-2024,12:01:12,47308.86,47308.86,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+753,10993,high_capacity_li_ion_id,1,18-09-2024,20:21:27,74516.51,74516.51,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+754,5141,generic_lithium_ion_pack_id,1,21-01-2024,12:57:51,50297.62,50297.62,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+755,7948,high_capacity_li_ion_id,1,19-12-2024,11:50:01,78861.18,78861.18,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+756,8597,generic_lithium_ion_pack_id,1,02-07-2024,15:42:20,31034.24,31034.24,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+757,8459,generic_lithium_ion_pack_id,2,24-02-2024,13:35:10,66429.63,132859.26,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+758,17947,high_capacity_li_ion_id,1,26-09-2024,12:44:18,79906.75,79906.75,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+759,14075,quick_swap_power_pack_id,1,14-07-2024,12:02:53,41001.88,41001.88,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+760,10496,generic_lithium_ion_pack_id,1,15-07-2024,19:07:19,48113.75,48113.75,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+761,3082,universal_battery_pack_id,1,11-12-2024,12:37:30,61712.92,61712.92,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+762,14778,quick_swap_power_pack_id,1,07-07-2024,17:50:21,30513.5,30513.5,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+763,9071,universal_battery_pack_id,1,04-12-2024,17:22:55,64657.55,64657.55,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+764,1249,intelligent_power_pack_id,1,07-04-2024,20:40:44,27291.63,27291.63,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+765,8716,intelligent_power_pack_id,1,10-02-2024,18:32:48,27106.91,27106.91,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+766,20884,generic_lithium_ion_pack_id,1,28-08-2024,11:27:01,52058.32,52058.32,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+767,10189,quick_swap_power_pack_id,1,10-01-2024,14:58:52,42585.68,42585.68,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+768,1227,high_capacity_li_ion_id,1,15-02-2024,16:20:21,88780.07,88780.07,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+769,17580,intelligent_power_pack_id,1,28-09-2024,14:23:47,37354.8,37354.8,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+770,11107,high_capacity_li_ion_id,1,11-05-2024,21:22:34,95775.09,95775.09,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+771,765,universal_battery_pack_id,1,18-06-2024,17:11:41,54700.32,54700.32,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+772,19840,generic_lithium_ion_pack_id,1,13-03-2024,19:50:13,68274.63,68274.63,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+773,7895,generic_lithium_ion_pack_id,1,13-05-2024,12:31:38,66832.17,66832.17,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+774,5899,intelligent_power_pack_id,1,31-08-2024,18:12:18,44693.26,44693.26,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+775,6728,intelligent_power_pack_id,1,26-02-2024,17:31:49,27291.41,27291.41,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+776,20663,universal_battery_pack_id,1,04-05-2024,15:29:38,47455.03,47455.03,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+777,2577,quick_swap_power_pack_id,1,04-07-2024,17:21:15,48240.78,48240.78,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+778,14595,quick_swap_power_pack_id,1,06-03-2024,13:52:33,46823.23,46823.23,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+779,7016,generic_lithium_ion_pack_id,1,22-02-2024,13:03:06,49112.92,49112.92,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+780,20537,high_capacity_li_ion_id,1,12-10-2024,16:11:58,113116.68,113116.68,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+781,15451,universal_battery_pack_id,1,05-01-2024,18:47:59,52998.37,52998.37,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+782,7590,universal_battery_pack_id,2,11-07-2024,12:32:04,38156.11,76312.23,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+783,11230,generic_lithium_ion_pack_id,1,02-05-2024,12:28:41,31922.61,31922.61,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+784,14073,high_capacity_li_ion_id,1,17-07-2024,11:38:00,114025.92,114025.92,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+785,15301,quick_swap_power_pack_id,1,25-08-2024,12:29:46,34628.89,34628.89,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+786,224,high_capacity_li_ion_id,1,16-06-2024,16:39:58,110776.76,110776.76,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+787,5377,quick_swap_power_pack_id,1,10-09-2024,12:17:20,34171.02,34171.02,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+788,1653,generic_lithium_ion_pack_id,1,13-12-2024,17:28:53,37248.8,37248.8,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+789,17725,generic_lithium_ion_pack_id,1,13-03-2024,17:19:56,69165.9,69165.9,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+790,3913,intelligent_power_pack_id,1,13-03-2024,18:45:53,36635.88,36635.88,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+791,7826,universal_battery_pack_id,1,04-09-2024,12:20:56,31242.16,31242.16,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+792,18486,generic_lithium_ion_pack_id,1,17-04-2024,18:48:11,47335.37,47335.37,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+793,7124,universal_battery_pack_id,1,19-01-2024,13:24:00,36136.76,36136.76,XL,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+794,6890,quick_swap_power_pack_id,1,24-09-2024,13:15:44,26448.7,26448.7,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+795,10133,generic_lithium_ion_pack_id,1,29-10-2024,15:41:32,53498.71,53498.71,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+796,11230,high_capacity_li_ion_id,1,08-06-2024,12:28:41,67932.13,67932.13,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+797,18067,high_capacity_li_ion_id,1,30-03-2024,18:09:08,82435.73,82435.73,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+798,13900,intelligent_power_pack_id,1,19-09-2024,13:32:59,37764.74,37764.74,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+799,8191,intelligent_power_pack_id,1,24-02-2024,16:22:35,47742.98,47742.98,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+800,4077,quick_swap_power_pack_id,1,15-01-2024,13:55:11,38474.12,38474.12,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+801,9755,universal_battery_pack_id,1,13-08-2024,13:02:09,43321.81,43321.81,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+802,7680,intelligent_power_pack_id,1,18-12-2024,17:41:56,36132.31,36132.31,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+803,11064,universal_battery_pack_id,1,14-03-2024,18:07:43,36399.47,36399.47,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+804,12119,high_capacity_li_ion_id,1,13-11-2024,11:57:15,70731.35,70731.35,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+805,2924,intelligent_power_pack_id,1,13-08-2024,18:00:30,35926.71,35926.71,XL,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+806,20863,generic_lithium_ion_pack_id,1,29-01-2024,19:08:45,34588.33,34588.33,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+807,322,quick_swap_power_pack_id,1,29-12-2024,13:02:13,27185.22,27185.22,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+808,19487,generic_lithium_ion_pack_id,1,26-03-2024,20:19:08,56436.83,56436.83,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+809,16212,universal_battery_pack_id,1,24-05-2024,17:53:09,68425.11,68425.11,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+810,15456,quick_swap_power_pack_id,1,29-07-2024,19:58:07,27355.94,27355.94,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+811,4746,universal_battery_pack_id,1,21-06-2024,14:31:37,48667.47,48667.47,XL,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+812,20560,intelligent_power_pack_id,1,01-06-2024,19:51:47,32319.14,32319.14,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+813,18817,intelligent_power_pack_id,1,10-07-2024,18:07:20,35152.12,35152.12,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+814,6550,quick_swap_power_pack_id,1,15-01-2024,18:14:45,46876.54,46876.54,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+815,17551,universal_battery_pack_id,1,28-11-2024,18:50:54,59265.71,59265.71,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+816,14728,high_capacity_li_ion_id,1,09-12-2024,18:49:15,85804.26,85804.26,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+817,15674,intelligent_power_pack_id,1,25-08-2024,14:16:35,42883.08,42883.08,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+818,13352,high_capacity_li_ion_id,1,11-07-2024,13:19:07,106070.14,106070.14,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+819,12702,universal_battery_pack_id,1,07-07-2024,18:03:06,52987.24,52987.24,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+820,3940,generic_lithium_ion_pack_id,1,24-10-2024,12:29:28,42703.55,42703.55,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+821,8569,intelligent_power_pack_id,1,26-04-2024,21:51:28,33612.47,33612.47,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+822,6592,quick_swap_power_pack_id,2,01-06-2024,14:25:55,25611.34,51222.68,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+823,10467,intelligent_power_pack_id,1,30-08-2024,13:49:25,40627.93,40627.93,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+824,10009,intelligent_power_pack_id,1,22-04-2024,13:58:20,44867.02,44867.02,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+825,7789,quick_swap_power_pack_id,1,29-01-2024,16:30:07,27453.17,27453.17,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+826,18654,intelligent_power_pack_id,1,01-08-2024,18:02:40,41851.14,41851.14,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+827,3563,high_capacity_li_ion_id,1,05-07-2024,18:44:52,103370.76,103370.76,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+828,6890,intelligent_power_pack_id,1,30-09-2024,13:15:44,25070.31,25070.31,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+829,17895,generic_lithium_ion_pack_id,1,26-12-2024,15:08:42,61516.64,61516.64,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+830,15470,intelligent_power_pack_id,1,13-12-2024,22:29:24,37676.09,37676.09,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+831,14979,universal_battery_pack_id,1,24-06-2024,12:28:27,32010.67,32010.67,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+832,10235,quick_swap_power_pack_id,1,09-01-2024,14:22:05,29847.04,29847.04,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+833,9323,high_capacity_li_ion_id,1,25-10-2024,21:01:50,88610.74,88610.74,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+834,11576,generic_lithium_ion_pack_id,1,23-09-2024,22:09:07,47895.09,47895.09,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+835,16123,universal_battery_pack_id,1,25-05-2024,12:46:27,50021.4,50021.4,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+836,12486,generic_lithium_ion_pack_id,1,02-11-2024,22:23:58,42379.93,42379.93,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+837,5320,high_capacity_li_ion_id,1,29-07-2024,13:22:56,111532.22,111532.22,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+838,11570,high_capacity_li_ion_id,1,14-12-2024,20:44:19,98626.94,98626.94,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+839,16977,quick_swap_power_pack_id,1,21-12-2024,13:59:51,46075.87,46075.87,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+840,13543,universal_battery_pack_id,1,19-06-2024,14:16:52,66435.64,66435.64,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+841,4131,high_capacity_li_ion_id,1,24-02-2024,13:45:13,81699.6,81699.6,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+842,10738,universal_battery_pack_id,1,17-10-2024,20:51:35,62579.96,62579.96,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+843,18853,universal_battery_pack_id,1,08-10-2024,13:40:33,64202.7,64202.7,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+844,10022,intelligent_power_pack_id,1,09-09-2024,16:16:55,36363.85,36363.85,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+845,14794,universal_battery_pack_id,1,25-10-2024,20:11:28,39563.92,39563.92,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+846,10328,universal_battery_pack_id,1,20-08-2024,22:29:15,43882.0,43882.0,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+847,2013,universal_battery_pack_id,1,16-11-2024,13:20:46,65059.63,65059.63,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+848,18149,generic_lithium_ion_pack_id,1,13-04-2024,11:25:22,61791.12,61791.12,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+849,16721,high_capacity_li_ion_id,1,16-04-2024,22:54:32,99702.75,99702.75,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+850,12160,generic_lithium_ion_pack_id,1,13-03-2024,18:13:08,65012.3,65012.3,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+851,17484,universal_battery_pack_id,1,16-03-2024,17:57:01,56471.37,56471.37,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+852,138,generic_lithium_ion_pack_id,1,25-08-2024,11:44:50,51084.72,51084.72,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+853,14662,generic_lithium_ion_pack_id,1,21-08-2024,16:59:13,32319.0,32319.0,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+854,1922,universal_battery_pack_id,1,29-01-2024,20:09:20,40441.06,40441.06,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+855,597,quick_swap_power_pack_id,1,14-08-2024,18:32:36,42616.58,42616.58,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+856,4760,quick_swap_power_pack_id,1,12-05-2024,17:26:32,29624.15,29624.15,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+857,441,quick_swap_power_pack_id,1,01-06-2024,12:16:58,27993.94,27993.94,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+858,18536,quick_swap_power_pack_id,1,27-06-2024,17:22:08,41070.88,41070.88,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+859,73,high_capacity_li_ion_id,1,13-09-2024,11:58:56,97672.4,97672.4,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+860,6021,quick_swap_power_pack_id,1,09-09-2024,20:20:40,39897.56,39897.56,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+861,11176,high_capacity_li_ion_id,1,21-12-2024,12:53:16,73231.51,73231.51,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+862,14080,generic_lithium_ion_pack_id,1,17-07-2024,12:39:57,30489.55,30489.55,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+863,12636,intelligent_power_pack_id,1,01-10-2024,17:01:17,41231.93,41231.93,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+864,20646,quick_swap_power_pack_id,1,03-09-2024,12:48:52,44717.53,44717.53,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+865,9998,intelligent_power_pack_id,1,18-01-2024,12:00:35,34174.56,34174.56,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+866,19047,generic_lithium_ion_pack_id,1,03-02-2024,18:20:40,56705.45,56705.45,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+867,6383,generic_lithium_ion_pack_id,1,07-12-2024,20:35:48,57683.27,57683.27,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+868,7940,high_capacity_li_ion_id,1,05-08-2024,20:10:01,118415.37,118415.37,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+869,6087,high_capacity_li_ion_id,1,31-07-2024,22:17:51,78279.09,78279.09,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+870,18733,high_capacity_li_ion_id,1,20-06-2024,12:07:20,74222.23,74222.23,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+871,19316,quick_swap_power_pack_id,1,18-02-2024,13:20:28,34465.15,34465.15,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+872,1338,universal_battery_pack_id,1,04-02-2024,13:47:01,69198.97,69198.97,XL,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+873,790,intelligent_power_pack_id,1,03-12-2024,12:07:30,44541.34,44541.34,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+874,10676,quick_swap_power_pack_id,1,26-12-2024,18:53:49,45703.19,45703.19,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+875,9647,quick_swap_power_pack_id,1,13-11-2024,14:26:07,46186.97,46186.97,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+876,5732,high_capacity_li_ion_id,1,12-09-2024,20:08:50,89391.6,89391.6,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+877,11682,high_capacity_li_ion_id,1,29-06-2024,19:41:58,103323.07,103323.07,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+878,4384,universal_battery_pack_id,1,29-05-2024,16:57:07,51408.81,51408.81,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+879,16014,quick_swap_power_pack_id,1,12-10-2024,15:04:47,48387.27,48387.27,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+880,17267,generic_lithium_ion_pack_id,1,27-02-2024,20:48:39,35695.76,35695.76,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+881,18867,quick_swap_power_pack_id,1,14-08-2024,16:44:03,29754.86,29754.86,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+882,21031,high_capacity_li_ion_id,1,16-04-2024,17:46:02,106052.14,106052.14,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+883,14161,generic_lithium_ion_pack_id,1,23-12-2024,18:02:15,60187.97,60187.97,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+884,10111,quick_swap_power_pack_id,1,27-01-2024,12:33:20,34015.57,34015.57,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+885,9640,quick_swap_power_pack_id,1,28-11-2024,13:24:50,29383.75,29383.75,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+886,12499,intelligent_power_pack_id,1,09-03-2024,12:54:46,47387.26,47387.26,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+887,19207,quick_swap_power_pack_id,1,05-09-2024,16:41:45,38123.05,38123.05,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+888,7511,generic_lithium_ion_pack_id,1,19-12-2024,18:59:25,65614.73,65614.73,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+889,17170,intelligent_power_pack_id,1,28-02-2024,12:59:32,32297.68,32297.68,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+890,6153,universal_battery_pack_id,1,15-01-2024,21:56:47,43286.15,43286.15,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+891,9020,high_capacity_li_ion_id,1,27-08-2024,21:47:28,91096.42,91096.42,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+892,7822,high_capacity_li_ion_id,1,07-09-2024,11:51:13,67495.83,67495.83,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+893,20169,quick_swap_power_pack_id,1,16-05-2024,15:04:51,27909.69,27909.69,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+894,21115,generic_lithium_ion_pack_id,1,07-05-2024,14:41:05,53644.27,53644.27,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+895,15072,quick_swap_power_pack_id,1,12-12-2024,17:41:59,32863.11,32863.11,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+896,19449,universal_battery_pack_id,1,11-03-2024,16:40:22,52308.92,52308.92,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+897,14611,high_capacity_li_ion_id,1,27-10-2024,17:19:19,105272.39,105272.39,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+898,13235,quick_swap_power_pack_id,1,09-08-2024,14:12:12,45720.23,45720.23,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+899,2769,generic_lithium_ion_pack_id,1,09-08-2024,20:14:22,61165.06,61165.06,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+900,11313,high_capacity_li_ion_id,1,10-10-2024,16:57:03,98956.37,98956.37,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+901,11928,high_capacity_li_ion_id,1,29-08-2024,18:40:08,98203.76,98203.76,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+902,9448,intelligent_power_pack_id,1,08-02-2024,11:55:57,35906.33,35906.33,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+903,8812,high_capacity_li_ion_id,1,16-11-2024,13:56:53,114475.12,114475.12,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+904,8330,quick_swap_power_pack_id,1,11-06-2024,12:25:45,36761.86,36761.86,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+905,20309,quick_swap_power_pack_id,1,13-01-2024,17:59:59,31177.12,31177.12,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+906,16582,intelligent_power_pack_id,1,02-07-2024,16:35:26,25393.49,25393.49,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+907,15676,generic_lithium_ion_pack_id,1,16-10-2024,14:41:41,38865.89,38865.89,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+908,18885,universal_battery_pack_id,1,27-06-2024,11:51:00,37378.73,37378.73,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+909,17275,universal_battery_pack_id,1,11-03-2024,11:21:11,43237.71,43237.71,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+910,3177,universal_battery_pack_id,1,02-05-2024,12:23:43,45699.59,45699.59,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+911,9494,generic_lithium_ion_pack_id,1,15-04-2024,19:15:17,46494.56,46494.56,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+912,8782,generic_lithium_ion_pack_id,1,14-03-2024,19:09:22,68687.72,68687.72,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+913,1150,generic_lithium_ion_pack_id,1,14-09-2024,12:39:05,58362.19,58362.19,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+914,17943,universal_battery_pack_id,1,12-04-2024,12:21:13,44104.55,44104.55,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+915,2712,high_capacity_li_ion_id,1,12-08-2024,20:52:05,85261.07,85261.07,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+916,20231,intelligent_power_pack_id,1,09-09-2024,14:05:07,37833.3,37833.3,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+917,14063,universal_battery_pack_id,1,28-05-2024,20:59:32,69507.48,69507.48,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+918,2604,universal_battery_pack_id,1,07-09-2024,12:33:36,52187.5,52187.5,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+919,6394,intelligent_power_pack_id,1,04-09-2024,12:39:57,44251.32,44251.32,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+920,19489,high_capacity_li_ion_id,1,03-06-2024,20:27:32,101996.33,101996.33,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+921,2727,high_capacity_li_ion_id,1,13-05-2024,11:56:33,115254.13,115254.13,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+922,6158,intelligent_power_pack_id,1,06-12-2024,12:19:50,46533.16,46533.16,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+923,9207,generic_lithium_ion_pack_id,1,28-07-2024,12:09:28,33146.3,33146.3,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+924,12202,quick_swap_power_pack_id,1,09-11-2024,13:53:32,35690.96,35690.96,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+925,3507,universal_battery_pack_id,1,20-11-2024,18:47:24,42020.6,42020.6,M,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+926,4433,generic_lithium_ion_pack_id,1,29-01-2024,15:36:28,65805.43,65805.43,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+927,4555,intelligent_power_pack_id,1,30-03-2024,13:07:53,25175.66,25175.66,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+928,11609,intelligent_power_pack_id,1,09-11-2024,15:50:26,47558.48,47558.48,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+929,19858,generic_lithium_ion_pack_id,1,07-08-2024,13:02:37,45157.75,45157.75,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+930,7481,generic_lithium_ion_pack_id,1,18-09-2024,13:33:13,68639.04,68639.04,XL,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+931,16122,high_capacity_li_ion_id,1,13-10-2024,12:41:22,100211.28,100211.28,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+932,9296,quick_swap_power_pack_id,1,28-01-2024,17:30:02,27007.81,27007.81,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+933,1283,universal_battery_pack_id,1,18-08-2024,15:47:42,66377.65,66377.65,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+934,2668,intelligent_power_pack_id,1,25-12-2024,12:22:58,45339.98,45339.98,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+935,473,quick_swap_power_pack_id,1,12-01-2024,16:41:27,39810.22,39810.22,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+936,20086,intelligent_power_pack_id,1,08-05-2024,20:28:46,28881.75,28881.75,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+937,4591,universal_battery_pack_id,1,12-07-2024,20:04:42,65234.97,65234.97,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+938,9804,quick_swap_power_pack_id,1,16-11-2024,20:32:47,43046.63,43046.63,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+939,18369,high_capacity_li_ion_id,1,04-09-2024,18:59:31,87768.02,87768.02,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+940,10840,generic_lithium_ion_pack_id,1,30-12-2024,17:55:00,31541.49,31541.49,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+941,2806,generic_lithium_ion_pack_id,1,03-03-2024,17:12:37,61702.69,61702.69,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+942,9961,high_capacity_li_ion_id,1,09-02-2024,16:49:02,102913.84,102913.84,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+943,3630,generic_lithium_ion_pack_id,1,18-01-2024,19:34:40,42873.63,42873.63,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+944,6058,generic_lithium_ion_pack_id,1,04-05-2024,16:39:27,36444.54,36444.54,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+945,7105,universal_battery_pack_id,1,21-03-2024,21:25:35,55145.36,55145.36,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+946,13204,generic_lithium_ion_pack_id,1,06-09-2024,19:55:18,48695.8,48695.8,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+947,13748,quick_swap_power_pack_id,1,22-02-2024,17:01:24,29434.72,29434.72,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+948,20948,quick_swap_power_pack_id,1,28-08-2024,12:39:25,47110.44,47110.44,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+949,18923,quick_swap_power_pack_id,1,11-12-2024,17:55:28,36536.25,36536.25,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+950,13545,quick_swap_power_pack_id,1,05-05-2024,14:50:15,44621.59,44621.59,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+951,18770,universal_battery_pack_id,1,14-01-2024,17:43:14,63102.77,63102.77,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+952,21248,generic_lithium_ion_pack_id,1,20-01-2024,11:54:59,51654.32,51654.32,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+953,16503,high_capacity_li_ion_id,1,04-12-2024,13:09:03,69972.85,69972.85,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+954,11514,intelligent_power_pack_id,1,23-06-2024,20:37:29,42292.29,42292.29,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+955,13278,generic_lithium_ion_pack_id,1,11-09-2024,22:39:26,42599.73,42599.73,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+956,20108,intelligent_power_pack_id,1,12-04-2024,13:33:45,35189.99,35189.99,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+957,1833,quick_swap_power_pack_id,1,26-03-2024,20:11:10,49102.67,49102.67,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+958,911,high_capacity_li_ion_id,1,14-08-2024,11:36:00,116719.51,116719.51,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+959,5512,intelligent_power_pack_id,1,06-08-2024,12:59:05,45053.02,45053.02,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+960,5704,quick_swap_power_pack_id,1,10-03-2024,14:29:49,25544.03,25544.03,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+961,135,quick_swap_power_pack_id,1,24-04-2024,22:29:34,43707.5,43707.5,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+962,7270,intelligent_power_pack_id,1,20-02-2024,16:58:13,31134.26,31134.26,S,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+963,1653,universal_battery_pack_id,1,07-10-2024,17:28:53,60418.1,60418.1,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+964,14644,high_capacity_li_ion_id,1,30-11-2024,12:59:50,84644.13,84644.13,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+965,11577,quick_swap_power_pack_id,1,14-06-2024,22:09:09,27146.24,27146.24,M,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+966,440,generic_lithium_ion_pack_id,1,02-07-2024,12:16:34,58578.34,58578.34,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+967,13022,high_capacity_li_ion_id,1,15-07-2024,19:57:33,74118.87,74118.87,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+968,17979,high_capacity_li_ion_id,1,13-04-2024,18:22:50,99058.46,99058.46,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+969,7175,quick_swap_power_pack_id,1,23-02-2024,12:04:42,44740.03,44740.03,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+970,2057,high_capacity_li_ion_id,1,16-09-2024,21:11:26,78819.78,78819.78,XL,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+971,17251,generic_lithium_ion_pack_id,1,15-09-2024,17:42:03,36793.76,36793.76,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+972,8856,high_capacity_li_ion_id,1,31-01-2024,13:08:12,100078.6,100078.6,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+973,16713,generic_lithium_ion_pack_id,1,28-06-2024,21:17:28,65540.43,65540.43,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+974,3863,high_capacity_li_ion_id,1,12-09-2024,19:50:37,81847.34,81847.34,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+975,4781,universal_battery_pack_id,1,18-05-2024,21:58:12,47795.87,47795.87,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+976,10102,generic_lithium_ion_pack_id,1,01-09-2024,11:55:58,40822.72,40822.72,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+977,20560,high_capacity_li_ion_id,1,08-08-2024,19:51:47,73745.79,73745.79,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+978,257,generic_lithium_ion_pack_id,1,07-04-2024,11:59:04,41317.8,41317.8,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+979,5693,high_capacity_li_ion_id,1,23-03-2024,12:37:49,101405.34,101405.34,M,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+980,12665,intelligent_power_pack_id,1,29-02-2024,11:48:19,30592.99,30592.99,XL,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+981,20894,universal_battery_pack_id,1,21-04-2024,13:07:22,56202.8,56202.8,L,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+982,15731,intelligent_power_pack_id,1,19-09-2024,13:55:20,35440.22,35440.22,L,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+983,17484,high_capacity_li_ion_id,1,17-01-2024,17:57:01,90626.85,90626.85,S,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+984,17345,universal_battery_pack_id,1,23-05-2024,13:21:08,39485.28,39485.28,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+985,6960,generic_lithium_ion_pack_id,1,24-12-2024,14:06:51,51981.24,51981.24,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+986,1398,quick_swap_power_pack_id,1,03-03-2024,14:04:36,33319.56,33319.56,L,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+987,17403,generic_lithium_ion_pack_id,1,04-06-2024,13:24:52,50434.49,50434.49,M,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+988,8323,intelligent_power_pack_id,1,10-01-2024,11:30:28,25596.84,25596.84,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+989,7620,quick_swap_power_pack_id,1,26-03-2024,18:00:56,28498.27,28498.27,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+990,8358,quick_swap_power_pack_id,1,14-03-2024,17:11:48,34609.91,34609.91,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+991,2938,generic_lithium_ion_pack_id,1,06-09-2024,20:07:26,60790.2,60790.2,S,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+992,20537,universal_battery_pack_id,1,29-02-2024,16:11:58,33825.15,33825.15,S,Standardized Batteries,"Standardized form factor, interoperable",Universal Battery Pack
+993,12196,quick_swap_power_pack_id,1,18-06-2024,13:32:31,40549.76,40549.76,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+994,10696,quick_swap_power_pack_id,1,30-03-2024,11:59:46,40134.65,40134.65,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+995,312,quick_swap_power_pack_id,1,16-11-2024,12:05:21,37997.08,37997.08,S,Swappable Batteries,"Lightweight, quick-release mechanism",Quick Swap Power Pack
+996,16674,generic_lithium_ion_pack_id,1,08-01-2024,13:42:22,50955.66,50955.66,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+997,19761,generic_lithium_ion_pack_id,1,20-10-2024,15:49:40,56848.45,56848.45,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
+998,19984,high_capacity_li_ion_id,1,03-09-2024,13:17:15,72681.47,72681.47,L,"60V, 100Ah Lithium-Ion Battery","60V, 100Ah, e-rickshaw compatible",High-Capacity Li-Ion
+999,15403,intelligent_power_pack_id,1,10-04-2024,20:52:35,44540.7,44540.7,M,Smart Batteries,"Integrated BMS, real-time monitoring",Intelligent Power Pack
+1000,9214,generic_lithium_ion_pack_id,1,23-09-2024,12:41:43,68377.48,68377.48,L,Lithium-Ion Batteries,"High energy density, long cycle life",Generic Lithium-Ion Pack
