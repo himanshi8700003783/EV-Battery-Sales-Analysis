@@ -5,10 +5,6 @@ This project focuses on a comprehensive analysis of an EV battery sales dataset 
 ---
 
 
-### **Project Overview, Procedure, and Conclusion**
-
-#### **Project Description**
-This is an end-to-end data analysis project that leverages **SQL** for data management and **Power BI** for visualization. The core objective is to analyze a dataset of EV battery sales from 2024 to provide a detailed and insightful overview of business performance, helping to inform data-driven decisions.
 
 ### **Overview**
 This project is a comprehensive data analysis of an **EV battery sales dataset** for the year 2024. The goal is to transform raw sales data into actionable business intelligence to support data-driven decision-making. The project utilizes **SQL Server Express** for robust data management and **Power BI** for creating an interactive, insightful dashboard. This end-to-end process provides a clear view of business performance, sales trends, and key product metrics.
