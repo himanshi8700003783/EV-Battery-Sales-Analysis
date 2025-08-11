@@ -35,6 +35,8 @@ To effectively visualize sales data and understand key trends, the following cha
 7.  **Bottom 3 Best Sellers:** A bar chart showcasing the bottom 3 worst-selling batteries based on revenue, total quantity, and total orders, to identify underperforming products.
 
 ---
+## **Dataset used**
+- <a href="https://github.com/himanshi8700003783/EV-Battery-Sales-Analysis/blob/main/ev_batteries_1000_records.csv">EV-BATTERY-DATASET</a>
 
 ### **Technologies Used**
 * **SQL Server Express:** For hosting the project database.
@@ -46,6 +48,9 @@ To effectively visualize sales data and understand key trends, the following cha
 * `ev_batteries_1000_records.csv`: The cleaned and prepared dataset containing 1000 records of EV battery sales from 2024.
 * `ev_battery_sales_dashboard.pbix`: The Power BI project file containing the data model and all dashboard visualizations.
 * `BATTERY SALES SQL QUERIES.docx`: A file containing all the SQL scripts used for table creation and data analysis.
+
+## **DASH BOARD**
+- <a href="[https://github.com/himanshi8700003783/EV-Battery-Sales-Analysis/blob/main/ev_batteries_1000_records.csv](https://github.com/himanshi8700003783/EV-Battery-Sales-Analysis/blob/main/BatterySales.pdf)">EV-BATTERY-MAIN-DASHBOARD</a>
 
 ### **How to Use**
 1.  **Clone this repository** to your local machine.
