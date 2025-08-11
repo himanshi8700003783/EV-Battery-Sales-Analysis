@@ -50,7 +50,7 @@ To effectively visualize sales data and understand key trends, the following cha
 * `BATTERY SALES SQL QUERIES.docx`: A file containing all the SQL scripts used for table creation and data analysis.
 
 ## **DASH BOARD**
-- <a href="[https://github.com/himanshi8700003783/EV-Battery-Sales-Analysis/blob/main/ev_batteries_1000_records.csv](https://github.com/himanshi8700003783/EV-Battery-Sales-Analysis/blob/main/BatterySales.pdf)">EV-BATTERY-MAIN-DASHBOARD</a>
+- <a href="https://github.com/himanshi8700003783/EV-Battery-Sales-Analysis/blob/main/BatterySales_page-0001.jpg">EV-BATTERY-MAIN-DASHBOARD</a>
 
 ### **How to Use**
 1.  **Clone this repository** to your local machine.
